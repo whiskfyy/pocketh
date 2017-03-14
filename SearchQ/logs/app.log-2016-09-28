@@ -1,0 +1,1621 @@
+[2016-09-26 10:22:02.011] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 10:22:02.026] [INFO] app - Entering cheese testing
+[2016-09-26 10:22:08.971] [INFO] app - /test/addCustomer request start
+[2016-09-26 10:23:10.170] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 10:23:10.170] [INFO] app - Entering cheese testing
+[2016-09-26 10:23:12.187] [INFO] app - /test/addCustomer request start
+[2016-09-26 10:36:41.220] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 10:36:41.225] [INFO] app - Entering cheese testing
+[2016-09-26 10:36:43.604] [INFO] app - /test/addCustomer request start
+[2016-09-26 10:38:17.614] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 10:38:17.619] [INFO] app - Entering cheese testing
+[2016-09-26 10:38:19.683] [INFO] app - /test/addCustomer request start
+[2016-09-26 10:38:46.700] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 10:38:46.705] [INFO] app - Entering cheese testing
+[2016-09-26 10:38:48.907] [INFO] app - /test/addCustomer request start
+[2016-09-26 10:39:54.934] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 10:39:54.939] [INFO] app - Entering cheese testing
+[2016-09-26 10:39:57.051] [INFO] app - /test/addCustomer request start
+[2016-09-26 10:42:03.109] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 10:42:03.114] [INFO] app - Entering cheese testing
+[2016-09-26 10:42:05.369] [INFO] app - /test/addCustomer request start
+[2016-09-26 10:58:54.694] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 10:58:54.694] [INFO] app - Entering cheese testing
+[2016-09-26 11:02:35.052] [INFO] app - /test/addCustomer request start
+[2016-09-26 11:02:35.334] [INFO] app - /user_register/register request start
+[2016-09-26 11:02:35.362] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 11:02:35.414] [DEBUG] app - result=55b2cda0-758b-40a6-a26a-e3b8c0ff251b, err=null
+[2016-09-26 11:02:51.678] [INFO] app - /test/addCustomer request start
+[2016-09-26 11:02:51.702] [INFO] app - /user_register/register request start
+[2016-09-26 11:02:51.702] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 11:02:51.702] [DEBUG] app - result=e67389fa-4072-4480-9820-36e3632d5d5a, err=null
+[2016-09-26 11:08:28.760] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:08:28.775] [INFO] app - Entering cheese testing
+[2016-09-26 11:10:47.228] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:10:47.232] [INFO] app - Entering cheese testing
+[2016-09-26 11:10:51.785] [INFO] app - /test/addCustomer request start
+[2016-09-26 11:10:52.009] [INFO] app - /app/user_register/register request start
+[2016-09-26 11:10:52.032] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 11:10:52.045] [DEBUG] app - result=df441bae-b113-44b4-bec2-1cd29b93b2c3, err=null
+[2016-09-26 11:11:10.241] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:11:10.246] [INFO] app - Entering cheese testing
+[2016-09-26 11:11:12.331] [INFO] app - /test/addCustomer request start
+[2016-09-26 11:23:56.021] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:23:56.026] [INFO] app - Entering cheese testing
+[2016-09-26 11:23:58.006] [INFO] app - /test/addCustomer request start
+[2016-09-26 11:23:58.256] [INFO] app - /app/user_register/register request start
+[2016-09-26 11:23:58.279] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 11:23:58.293] [DEBUG] app - result=fcb8cfcd-66b1-41c4-a1bd-d06d4d18a4f7, err=null
+[2016-09-26 11:24:43.153] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:24:43.158] [INFO] app - Entering cheese testing
+[2016-09-26 11:24:45.534] [INFO] app - /test/addCustomer request start
+[2016-09-26 11:24:45.741] [INFO] app - /app/user_register/register request start
+[2016-09-26 11:24:45.764] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 11:24:45.769] [DEBUG] app - result=33c34b95-3e33-4760-b3e4-19f649d5d922, err=null
+[2016-09-26 11:24:46.322] [INFO] app - /test/addCustomer request start
+[2016-09-26 11:24:46.327] [INFO] app - /app/user_register/register request start
+[2016-09-26 11:24:46.328] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 11:24:46.329] [DEBUG] app - result=77c930d9-10b4-4114-9b9e-3e3fda689244, err=null
+[2016-09-26 11:24:47.825] [INFO] app - /test/addCustomer request start
+[2016-09-26 11:24:47.828] [INFO] app - /app/user_register/register request start
+[2016-09-26 11:24:47.829] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 11:24:47.830] [DEBUG] app - result=a142aaa8-df22-4b4f-8d67-ae05ff31c6f2, err=null
+[2016-09-26 11:24:48.586] [INFO] app - /test/addCustomer request start
+[2016-09-26 11:24:48.589] [INFO] app - /app/user_register/register request start
+[2016-09-26 11:24:48.590] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 11:24:48.592] [DEBUG] app - result=d8093317-2c78-402e-a857-f7971d4693f4, err=null
+[2016-09-26 11:28:30.448] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:28:30.453] [INFO] app - Entering cheese testing
+[2016-09-26 11:28:30.477] [INFO] app - app.port=undefined
+[2016-09-26 11:29:04.643] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:29:04.648] [INFO] app - Entering cheese testing
+[2016-09-26 11:29:04.670] [INFO] app - app.port=3000
+[2016-09-26 11:29:32.534] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:29:32.539] [INFO] app - Entering cheese testing
+[2016-09-26 11:29:32.560] [INFO] app - app.port=3000
+[2016-09-26 11:30:01.465] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:30:01.470] [INFO] app - Entering cheese testing
+[2016-09-26 11:30:01.491] [INFO] app - app.port=3000
+[2016-09-26 11:30:29.014] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:30:29.019] [INFO] app - Entering cheese testing
+[2016-09-26 11:30:29.042] [INFO] app - app.port=3000
+[2016-09-26 11:31:45.789] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:31:45.795] [INFO] app - Entering cheese testing
+[2016-09-26 11:31:45.818] [INFO] app - app.port=3000
+[2016-09-26 11:35:09.471] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:35:09.486] [INFO] app - Entering cheese testing
+[2016-09-26 11:35:09.502] [INFO] app - app.port=1234
+[2016-09-26 11:35:34.960] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:35:34.965] [INFO] app - Entering cheese testing
+[2016-09-26 11:35:34.989] [INFO] app - app.port=1234
+[2016-09-26 11:35:50.571] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:35:50.571] [INFO] app - Entering cheese testing
+[2016-09-26 11:35:50.602] [INFO] app - app.port=1234
+[2016-09-26 11:36:11.202] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:36:11.202] [INFO] app - Entering cheese testing
+[2016-09-26 11:36:11.234] [INFO] app - app.port=3000
+[2016-09-26 11:36:15.771] [INFO] app - /test/addCustomer request start
+[2016-09-26 11:36:16.033] [INFO] app - /app/user_register/register request start
+[2016-09-26 11:36:16.066] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 11:36:16.072] [DEBUG] app - result=0e00440c-05bb-43b5-bbc0-01325a88c03b, err=null
+[2016-09-26 11:36:16.902] [INFO] app - /test/addCustomer request start
+[2016-09-26 11:36:16.903] [INFO] app - /app/user_register/register request start
+[2016-09-26 11:36:16.903] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 11:36:16.903] [DEBUG] app - result=61325298-7806-4095-8318-926443d18440, err=null
+[2016-09-26 11:49:47.778] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:49:47.778] [INFO] app - Entering cheese testing
+[2016-09-26 11:49:47.794] [INFO] app - app.port=3000
+[2016-09-26 11:49:54.977] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 11:50:37.024] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:50:37.024] [INFO] app - Entering cheese testing
+[2016-09-26 11:50:37.058] [INFO] app - app.port=3000
+[2016-09-26 11:50:41.008] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 11:50:41.258] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 11:52:11.625] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:52:11.625] [INFO] app - Entering cheese testing
+[2016-09-26 11:52:11.660] [INFO] app - app.port=3000
+[2016-09-26 11:52:13.077] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 11:52:13.278] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 11:52:13.309] [DEBUG] app - customerDao.confirmOne:[object Object]
+[2016-09-26 11:52:13.325] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 0,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 11:54:10.210] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 11:54:10.225] [INFO] app - Entering cheese testing
+[2016-09-26 11:54:10.241] [INFO] app - app.port=3000
+[2016-09-26 11:54:11.979] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 11:54:12.194] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 11:54:12.225] [DEBUG] app - customerDao.confirmOne:[object Object]
+[2016-09-26 11:54:12.225] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 0,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 13:08:10.376] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 13:08:10.392] [INFO] app - Entering cheese testing
+[2016-09-26 13:08:10.407] [INFO] app - app.port=3000
+[2016-09-26 13:08:13.404] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 13:08:13.648] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 13:08:13.672] [DEBUG] app - customerDao.confirmOne:[object Object]
+[2016-09-26 13:08:13.688] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 0,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 13:08:13.688] [DEBUG] app - result=1, err=null
+[2016-09-26 13:08:56.299] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 13:08:56.301] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 13:08:56.316] [DEBUG] app - customerDao.confirmOne:[object Object]
+[2016-09-26 13:08:56.316] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 0,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 13:08:56.316] [DEBUG] app - result=1, err=null
+[2016-09-26 13:08:59.186] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:08:59.190] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:08:59.190] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:08:59.206] [DEBUG] app - result=ee7acbb5-3ecb-4bee-9feb-4ca3f80a73da, err=null
+[2016-09-26 13:09:00.940] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:09:00.954] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:09:00.954] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:09:00.954] [DEBUG] app - result=3536af07-169e-4455-9e10-955874205df1, err=null
+[2016-09-26 13:09:12.248] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 13:09:12.263] [INFO] app - Entering cheese testing
+[2016-09-26 13:09:12.279] [INFO] app - app.port=3000
+[2016-09-26 13:09:13.800] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:09:14.015] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:09:14.031] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:09:14.046] [DEBUG] app - result=2d93fd77-1ed3-46b4-8347-50d2c582661d, err=null
+[2016-09-26 13:09:42.179] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 13:09:42.195] [INFO] app - Entering cheese testing
+[2016-09-26 13:09:42.211] [INFO] app - app.port=3000
+[2016-09-26 13:09:45.555] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 13:09:45.765] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 13:10:23.412] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 13:10:23.428] [INFO] app - Entering cheese testing
+[2016-09-26 13:10:23.443] [INFO] app - app.port=3000
+[2016-09-26 13:10:24.664] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 13:10:24.870] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 13:14:25.588] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 13:14:25.588] [INFO] app - Entering cheese testing
+[2016-09-26 13:14:25.603] [INFO] app - app.port=3000
+[2016-09-26 13:14:27.211] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 13:14:27.429] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 13:14:27.461] [DEBUG] app - customerDao.confirmOne:[object Object]
+[2016-09-26 13:14:27.461] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 0,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 13:14:27.476] [DEBUG] app - result=1, err=null
+[2016-09-26 13:16:05.950] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 13:16:05.950] [INFO] app - Entering cheese testing
+[2016-09-26 13:16:05.981] [INFO] app - app.port=3000
+[2016-09-26 13:16:09.565] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 13:16:09.797] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 13:16:09.812] [DEBUG] app - customerDao.confirmOne:[object Object]
+[2016-09-26 13:16:09.812] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 0,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 13:16:09.828] [DEBUG] app - result=1, err=null
+[2016-09-26 13:18:36.732] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 13:18:36.732] [INFO] app - Entering cheese testing
+[2016-09-26 13:18:36.764] [INFO] app - app.port=3000
+[2016-09-26 13:18:39.957] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 13:18:40.188] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 13:18:40.204] [DEBUG] app - customerDao.confirmOne:undefined
+[2016-09-26 13:18:40.219] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 0,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 13:18:40.235] [DEBUG] app - result=1, err=null
+[2016-09-26 13:19:26.308] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 13:19:26.308] [INFO] app - Entering cheese testing
+[2016-09-26 13:19:26.323] [INFO] app - app.port=3000
+[2016-09-26 13:19:29.064] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 13:19:29.284] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 13:19:29.299] [DEBUG] app - customerDao.confirmOne:c5cce73a-6962-4add-a63d-cff2ba37125f
+[2016-09-26 13:19:29.315] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 1,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 13:19:29.331] [DEBUG] app - result=1, err=null
+[2016-09-26 13:19:35.954] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 13:19:35.968] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 13:19:35.968] [DEBUG] app - customerDao.confirmOne:c5cce73a-6962-4add-a63d-cff2ba37125f
+[2016-09-26 13:19:35.968] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 1,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 13:19:35.968] [DEBUG] app - result=1, err=null
+[2016-09-26 13:51:17.573] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:51:17.582] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:51:17.598] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:51:17.629] [DEBUG] app - result=24457a0e-1d90-4acb-9d68-4beb28767497, err=null
+[2016-09-26 13:51:23.343] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:51:23.356] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:51:23.356] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:51:23.356] [DEBUG] app - result=fb1f86bc-d36e-4654-b8e0-5e107c917fd5, err=null
+[2016-09-26 13:51:23.910] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:51:23.910] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:51:23.910] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:51:23.910] [DEBUG] app - result=d11153eb-a993-467b-993f-fe62f6b66a35, err=null
+[2016-09-26 13:51:24.371] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:51:24.381] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:51:24.381] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:51:24.381] [DEBUG] app - result=2b410e09-8f1f-4d19-a27a-00280f257c7f, err=null
+[2016-09-26 13:51:24.894] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:51:24.894] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:51:24.894] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:51:24.894] [DEBUG] app - result=9b2e363e-bedb-4010-866b-05e6d57d53e7, err=null
+[2016-09-26 13:51:25.394] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:51:25.403] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:51:25.403] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:51:25.403] [DEBUG] app - result=58c77d44-bccc-4640-8a6b-4c50307e3be0, err=null
+[2016-09-26 13:51:45.887] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 13:51:45.887] [INFO] app - Entering cheese testing
+[2016-09-26 13:51:45.918] [INFO] app - app.port=3000
+[2016-09-26 13:51:48.695] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 13:51:48.922] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 13:51:48.938] [DEBUG] app - customerDao.confirmOne:58c77d44-bccc-4640-8a6b-4c50307e3be0
+[2016-09-26 13:51:48.938] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 1,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 13:57:59.537] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 13:57:59.537] [INFO] app - Entering cheese testing
+[2016-09-26 13:57:59.568] [INFO] app - app.port=3000
+[2016-09-26 13:58:01.372] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 13:58:01.606] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 13:58:01.622] [DEBUG] app - customerDao.confirmOne:58c77d44-bccc-4640-8a6b-4c50307e3be0
+[2016-09-26 13:58:01.637] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 1,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 13:58:01.788] [ERROR] app - customerDao.confirmOne query error. { error: 値は型character varying(32)としては長すぎます
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 125,
+  severity: 'ERROR',
+  code: '22001',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\utils\\adt\\varchar.c',
+  line: '623',
+  routine: 'varchar' }
+[2016-09-26 13:58:01.788] [DEBUG] app - result=null, err=error: 値は型character varying(32)としては長すぎます
+[2016-09-26 13:59:34.528] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 13:59:34.528] [INFO] app - Entering cheese testing
+[2016-09-26 13:59:34.559] [INFO] app - app.port=3000
+[2016-09-26 13:59:38.870] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:59:39.090] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:59:39.121] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:59:39.137] [DEBUG] app - result=beece54b-7ea5-44bb-bd35-d434c1ae608f, err=null
+[2016-09-26 13:59:45.035] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:59:45.042] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:59:45.042] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:59:45.042] [DEBUG] app - result=8782a5fb-0176-4c88-afa1-9581aaef57d2, err=null
+[2016-09-26 13:59:46.914] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:59:46.928] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:59:46.928] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:59:46.928] [DEBUG] app - result=ef7220d5-54ec-4d37-a439-0820760ec3ff, err=null
+[2016-09-26 13:59:47.193] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:59:47.208] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:59:47.208] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:59:47.208] [DEBUG] app - result=e08f1695-2873-42dd-aa7f-b254dd2b11c1, err=null
+[2016-09-26 13:59:47.458] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:59:47.458] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:59:47.458] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:59:47.458] [DEBUG] app - result=921f5d53-f1d6-4030-a002-3e6e1cefbb06, err=null
+[2016-09-26 13:59:47.677] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:59:47.677] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:59:47.693] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:59:47.693] [DEBUG] app - result=08e34b46-80e0-409c-ad57-b22ffd617378, err=null
+[2016-09-26 13:59:47.958] [INFO] app - /test/addCustomer request start
+[2016-09-26 13:59:47.968] [INFO] app - /app/user_register/register request start
+[2016-09-26 13:59:47.968] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 13:59:47.968] [DEBUG] app - result=558effc4-f56b-4851-bb7e-37ba8e3d10a0, err=null
+[2016-09-26 14:00:09.024] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 14:00:09.024] [INFO] app - Entering cheese testing
+[2016-09-26 14:00:09.055] [INFO] app - app.port=3000
+[2016-09-26 14:00:11.657] [INFO] app - /test/confirmCustomer request start
+[2016-09-26 14:00:11.873] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 14:00:11.904] [DEBUG] app - customerDao.confirmOne:558effc4-f56b-4851-bb7e-37ba8e3d10a0
+[2016-09-26 14:00:11.935] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 1,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 14:00:11.951] [DEBUG] app - { command: 'INSERT',
+  rowCount: 1,
+  oid: 0,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 14:00:11.951] [DEBUG] app - result=8e9204a8-79cb-4f72-8ec7-54006eca5d51, err=null
+[2016-09-26 14:35:27.188] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 14:35:27.188] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 14:35:27.188] [INFO] app - Entering cheese testing
+[2016-09-26 14:35:27.219] [INFO] app - app.port=3000
+[2016-09-26 14:35:41.708] [INFO] app - /test/checkPermission request start
+[2016-09-26 14:35:41.950] [INFO] app - /app/auth/check request start
+[2016-09-26 14:35:41.981] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-26 14:35:41.986] [DEBUG] app - result=false, err=null
+[2016-09-26 14:36:16.615] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 14:36:16.615] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 14:36:16.615] [INFO] app - Entering cheese testing
+[2016-09-26 14:36:16.646] [INFO] app - app.port=3000
+[2016-09-26 14:36:19.947] [INFO] app - /test/checkPermission request start
+[2016-09-26 14:36:20.145] [INFO] app - /app/auth/check request start
+[2016-09-26 14:36:20.192] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-26 14:36:20.207] [DEBUG] app - result=true, err=null
+[2016-09-26 14:36:48.039] [INFO] app - /test/checkPermission request start
+[2016-09-26 14:36:48.055] [INFO] app - /app/auth/check request start
+[2016-09-26 14:36:48.055] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-26 14:36:48.055] [DEBUG] app - result=true, err=null
+[2016-09-26 14:36:49.716] [INFO] app - /test/checkPermission request start
+[2016-09-26 14:36:49.730] [INFO] app - /app/auth/check request start
+[2016-09-26 14:36:49.730] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-26 14:36:49.730] [DEBUG] app - result=true, err=null
+[2016-09-26 15:52:29.471] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 15:52:29.471] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 15:52:29.487] [INFO] app - Entering cheese testing
+[2016-09-26 15:52:29.503] [INFO] app - app.port=3000
+[2016-09-26 15:52:35.552] [INFO] app - /test/addCustomer request start
+[2016-09-26 15:52:35.829] [INFO] app - /app/user_register/register request start
+[2016-09-26 15:52:35.845] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-26 15:52:35.860] [DEBUG] app - result=7563468b-a1a9-45cc-90f4-b044cadaa556, err=null
+[2016-09-26 15:52:51.110] [INFO] app - /test/confirmCustomer?k=7563468b-a1a9-45cc-90f4-b044cadaa556 request start
+[2016-09-26 15:52:51.124] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 15:54:25.321] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 15:54:25.324] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 15:54:25.328] [INFO] app - Entering cheese testing
+[2016-09-26 15:54:25.343] [INFO] app - app.port=3000
+[2016-09-26 15:54:29.624] [INFO] app - /test/confirmCustomer?k=7563468b-a1a9-45cc-90f4-b044cadaa556 request start
+[2016-09-26 15:54:29.849] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 15:55:10.997] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 15:55:10.997] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 15:55:10.997] [INFO] app - Entering cheese testing
+[2016-09-26 15:55:11.029] [INFO] app - app.port=3000
+[2016-09-26 15:55:14.631] [INFO] app - /test/confirmCustomer?k=7563468b-a1a9-45cc-90f4-b044cadaa556 request start
+[2016-09-26 15:55:14.798] [DEBUG] app - k=7563468b-a1a9-45cc-90f4-b044cadaa556
+[2016-09-26 15:55:14.830] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 15:56:06.579] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 15:56:06.579] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 15:56:06.579] [INFO] app - Entering cheese testing
+[2016-09-26 15:56:06.611] [INFO] app - app.port=3000
+[2016-09-26 15:56:10.804] [INFO] app - /test/confirmCustomer?k=7563468b-a1a9-45cc-90f4-b044cadaa556 request start
+[2016-09-26 15:56:10.984] [DEBUG] app - k=[object Object]
+[2016-09-26 15:56:11.016] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 15:56:29.318] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 15:56:29.318] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 15:56:29.318] [INFO] app - Entering cheese testing
+[2016-09-26 15:56:29.349] [INFO] app - app.port=3000
+[2016-09-26 15:56:31.933] [INFO] app - /test/confirmCustomer?k=7563468b-a1a9-45cc-90f4-b044cadaa556 request start
+[2016-09-26 15:56:32.121] [DEBUG] app - k=7563468b-a1a9-45cc-90f4-b044cadaa556
+[2016-09-26 15:56:32.152] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 15:57:02.079] [INFO] app - /test/confirmCustomer?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=123456789023456 request start
+[2016-09-26 15:57:02.080] [DEBUG] app - k=7563468b-a1a9-45cc-90f4-b044cadaa556
+[2016-09-26 15:57:02.081] [INFO] app - /app/user_register/confirm request start
+[2016-09-26 15:57:02.097] [DEBUG] app - customerDao.confirmOne:7563468b-a1a9-45cc-90f4-b044cadaa556
+[2016-09-26 15:57:02.128] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 1,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 15:57:02.237] [DEBUG] app - { command: 'INSERT',
+  rowCount: 1,
+  oid: 0,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 15:57:02.237] [DEBUG] app - result=5eddb850-5611-443e-8e3a-fe4916468c01, err=null
+[2016-09-26 15:57:23.213] [INFO] app - /test/checkPermission?k=5eddb850-5611-443e-8e3a-fe4916468c01 request start
+[2016-09-26 15:57:23.219] [INFO] app - /app/auth/check request start
+[2016-09-26 15:57:23.219] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-26 15:57:23.219] [DEBUG] app - result=true, err=null
+[2016-09-26 15:57:27.654] [INFO] app - /test/checkPermission?k=5eddb850-5611-443e-8e3a-fe4916468c02 request start
+[2016-09-26 15:57:27.660] [INFO] app - /app/auth/check request start
+[2016-09-26 15:57:27.660] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-26 15:57:27.660] [DEBUG] app - result=false, err=null
+[2016-09-26 15:57:31.397] [INFO] app - /test/checkPermission?k=5eddb850-5611-443e-8e3a-fe4916468c01 request start
+[2016-09-26 15:57:31.405] [INFO] app - /app/auth/check request start
+[2016-09-26 15:57:31.405] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-26 15:57:31.405] [DEBUG] app - result=true, err=null
+[2016-09-26 15:59:54.550] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=1234567890123456 request start
+[2016-09-26 16:08:48.598] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 16:08:48.598] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 16:08:48.613] [INFO] app - Entering cheese testing
+[2016-09-26 16:08:48.629] [INFO] app - app.port=3000
+[2016-09-26 16:08:53.310] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=1234567890123456 request start
+[2016-09-26 16:08:53.532] [INFO] app - /app/auth/ request start
+[2016-09-26 16:09:36.703] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 16:09:36.703] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 16:09:36.718] [INFO] app - Entering cheese testing
+[2016-09-26 16:09:36.734] [INFO] app - app.port=3000
+[2016-09-26 16:09:38.839] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=1234567890123456 request start
+[2016-09-26 16:09:39.048] [INFO] app - /app/auth request start
+[2016-09-26 16:10:09.791] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 16:10:09.807] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 16:10:09.807] [INFO] app - Entering cheese testing
+[2016-09-26 16:10:09.838] [INFO] app - app.port=3000
+[2016-09-26 16:10:11.854] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=1234567890123456 request start
+[2016-09-26 16:10:12.063] [INFO] app - /app/auth request start
+[2016-09-26 16:10:12.094] [DEBUG] app - accessInfoDao.checkAuth:[object Object]
+[2016-09-26 16:10:12.188] [DEBUG] app - result=null, err=Error: invalided password
+[2016-09-26 16:14:31.284] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=1234567890123456 request start
+[2016-09-26 16:14:31.301] [INFO] app - /app/auth request start
+[2016-09-26 16:14:31.316] [DEBUG] app - accessInfoDao.checkAuth:[object Object]
+[2016-09-26 16:14:31.426] [DEBUG] app - result=null, err=Error: invalided password
+[2016-09-26 16:15:01.927] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=1234567890123456 request start
+[2016-09-26 16:15:01.941] [INFO] app - /app/auth request start
+[2016-09-26 16:15:01.956] [DEBUG] app - accessInfoDao.checkAuth:[object Object]
+[2016-09-26 16:15:02.050] [DEBUG] app - result=null, err=Error: invalided password
+[2016-09-26 16:15:56.152] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=123456789012345 request start
+[2016-09-26 16:15:56.156] [INFO] app - /app/auth request start
+[2016-09-26 16:15:56.172] [DEBUG] app - accessInfoDao.checkAuth:[object Object]
+[2016-09-26 16:15:56.266] [DEBUG] app - result=null, err=Error: invalided password
+[2016-09-26 16:16:05.470] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa5561&p=123456789012345 request start
+[2016-09-26 16:16:05.476] [INFO] app - /app/auth request start
+[2016-09-26 16:16:21.009] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=1234567890123456 request start
+[2016-09-26 16:16:21.021] [INFO] app - /app/auth request start
+[2016-09-26 16:16:21.021] [DEBUG] app - accessInfoDao.checkAuth:[object Object]
+[2016-09-26 16:16:21.021] [DEBUG] app - result=null, err=Error: invalided password
+[2016-09-26 16:16:48.264] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 16:16:48.264] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 16:16:48.280] [INFO] app - Entering cheese testing
+[2016-09-26 16:16:48.311] [INFO] app - app.port=3000
+[2016-09-26 16:16:50.691] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=1234567890123456 request start
+[2016-09-26 16:16:50.917] [INFO] app - /app/auth request start
+[2016-09-26 16:16:50.949] [DEBUG] app - accessInfoDao.checkAuth:[object Object]
+[2016-09-26 16:16:51.042] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 0,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 16:16:51.058] [DEBUG] app - result=null, err=Error: invalided password
+[2016-09-26 16:19:03.234] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 16:19:03.234] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 16:19:03.249] [INFO] app - Entering cheese testing
+[2016-09-26 16:19:03.281] [INFO] app - app.port=3000
+[2016-09-26 16:19:03.437] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=1234567890123456 request start
+[2016-09-26 16:19:03.650] [INFO] app - /app/auth request start
+[2016-09-26 16:19:03.665] [DEBUG] app - auth_key=7563468b-a1a9-45cc-90f4-b044cadaa556,password=1234567890123456
+[2016-09-26 16:19:03.681] [DEBUG] app - accessInfoDao.checkAuth:[object Object]
+[2016-09-26 16:19:03.790] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 0,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 16:19:03.813] [DEBUG] app - result=null, err=Error: invalided password
+[2016-09-26 16:19:06.091] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=1234567890123456 request start
+[2016-09-26 16:19:06.099] [INFO] app - /app/auth request start
+[2016-09-26 16:19:06.099] [DEBUG] app - auth_key=7563468b-a1a9-45cc-90f4-b044cadaa556,password=1234567890123456
+[2016-09-26 16:19:06.099] [DEBUG] app - accessInfoDao.checkAuth:[object Object]
+[2016-09-26 16:19:06.099] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 0,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 16:19:06.099] [DEBUG] app - result=null, err=Error: invalided password
+[2016-09-26 16:20:00.879] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 16:20:00.879] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 16:20:00.879] [INFO] app - Entering cheese testing
+[2016-09-26 16:20:00.910] [INFO] app - app.port=3000
+[2016-09-26 16:20:02.862] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=1234567890123456 request start
+[2016-09-26 16:20:03.077] [INFO] app - /app/auth request start
+[2016-09-26 16:20:03.077] [DEBUG] app - auth_key=7563468b-a1a9-45cc-90f4-b044cadaa556,password=1234567890123456
+[2016-09-26 16:20:03.092] [DEBUG] app - accessInfoDao.checkAuth:[object Object]
+[2016-09-26 16:20:03.108] [ERROR] app - accessInfoDao.checkAuth query error. { error: バインドメッセージは3パラメータを提供しましたが、準備された文""では2必要でした
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 190,
+  severity: 'ERROR',
+  code: '08P01',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\tcop\\postgres.c',
+  line: '1500',
+  routine: 'exec_bind_message' }
+[2016-09-26 16:20:03.123] [DEBUG] app - result=null, err=error: バインドメッセージは3パラメータを提供しましたが、準備された文""では2必要でした
+[2016-09-26 16:20:19.442] [INFO] app - ./pg/customerDao be loading
+[2016-09-26 16:20:19.442] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-26 16:20:19.458] [INFO] app - Entering cheese testing
+[2016-09-26 16:20:19.473] [INFO] app - app.port=3000
+[2016-09-26 16:20:21.954] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=1234567890123456 request start
+[2016-09-26 16:20:22.176] [INFO] app - /app/auth request start
+[2016-09-26 16:20:22.176] [DEBUG] app - auth_key=7563468b-a1a9-45cc-90f4-b044cadaa556,password=1234567890123456
+[2016-09-26 16:20:22.191] [DEBUG] app - accessInfoDao.checkAuth:[object Object]
+[2016-09-26 16:20:22.207] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 1,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 16:20:22.223] [DEBUG] app - result=72a67a40-8aca-475d-a473-db40e1956fbd, err=null
+[2016-09-26 16:21:31.388] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=123456789023456 request start
+[2016-09-26 16:21:31.397] [INFO] app - /app/auth request start
+[2016-09-26 16:21:31.397] [DEBUG] app - auth_key=7563468b-a1a9-45cc-90f4-b044cadaa556,password=123456789023456
+[2016-09-26 16:21:31.412] [DEBUG] app - accessInfoDao.checkAuth:[object Object]
+[2016-09-26 16:21:31.412] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 1,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 16:21:31.412] [DEBUG] app - result=be73d6c7-5e2f-42e7-a305-fdc318f439bf, err=null
+[2016-09-26 16:21:50.168] [INFO] app - /test/auth?k=7563468b-a1a9-45cc-90f4-b044cadaa556&p=123456789023456 request start
+[2016-09-26 16:21:50.177] [INFO] app - /app/auth request start
+[2016-09-26 16:21:50.177] [DEBUG] app - auth_key=7563468b-a1a9-45cc-90f4-b044cadaa556,password=123456789023456
+[2016-09-26 16:21:50.177] [DEBUG] app - accessInfoDao.checkAuth:[object Object]
+[2016-09-26 16:21:50.177] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 1,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-26 16:21:50.177] [DEBUG] app - result=7917ab6f-50b2-4255-899a-091172f04f8e, err=null
+[2016-09-28 13:06:56.367] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:06:56.367] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:06:56.367] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:06:56.367] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:06:56.383] [INFO] app - Entering cheese testing
+[2016-09-28 13:06:56.414] [INFO] app - app.port=3000
+[2016-09-28 13:08:10.342] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:08:10.787] [INFO] app - /app/search/near request start
+[2016-09-28 13:09:47.080] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:09:47.080] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:09:47.080] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:09:47.080] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:09:47.080] [INFO] app - Entering cheese testing
+[2016-09-28 13:09:47.111] [INFO] app - app.port=3000
+[2016-09-28 13:09:50.038] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:09:50.266] [INFO] app - /app/search/near request start
+[2016-09-28 13:10:15.721] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:10:15.737] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:10:15.737] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:10:15.737] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:10:15.737] [INFO] app - Entering cheese testing
+[2016-09-28 13:10:15.768] [INFO] app - app.port=3000
+[2016-09-28 13:10:17.645] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:10:17.847] [INFO] app - /app/search/near request start
+[2016-09-28 13:10:17.878] [DEBUG] app - hospitalDao.getListNear:[object Object]
+[2016-09-28 13:10:17.878] [ERROR] app - hospitalDao.getListNear query error. { error: 列l.hosital_idは存在しません
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 124,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '59',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\parser\\parse_relation.c',
+  line: '2623',
+  routine: 'errorMissingColumn' }
+[2016-09-28 13:10:17.909] [DEBUG] app - result=null, err=error: 列l.hosital_idは存在しません
+[2016-09-28 13:10:39.658] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:10:39.658] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:10:39.658] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:10:39.658] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:10:39.673] [INFO] app - Entering cheese testing
+[2016-09-28 13:10:39.689] [INFO] app - app.port=3000
+[2016-09-28 13:10:42.605] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:10:42.836] [INFO] app - /app/search/near request start
+[2016-09-28 13:10:42.851] [DEBUG] app - hospitalDao.getListNear:[object Object]
+[2016-09-28 13:10:42.882] [ERROR] app - hospitalDao.getListNear query error. { error: 型integerの入力構文が無効です: "NaN"
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 115,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\utils\\adt\\numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+[2016-09-28 13:10:42.898] [DEBUG] app - result=null, err=error: 型integerの入力構文が無効です: "NaN"
+[2016-09-28 13:14:08.646] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:14:08.646] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:14:08.646] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:14:08.646] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:14:08.646] [INFO] app - Entering cheese testing
+[2016-09-28 13:14:08.677] [INFO] app - app.port=3000
+[2016-09-28 13:14:12.365] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:14:12.580] [INFO] app - /app/search/near request start
+[2016-09-28 13:14:12.618] [DEBUG] app - hospitalDao.getListNear:[object Object]
+[2016-09-28 13:14:12.619] [ERROR] app - hospitalDao.getListNear query error. { error: 型integerの入力構文が無効です: "NaN"
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 115,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\utils\\adt\\numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+[2016-09-28 13:14:12.634] [DEBUG] app - result=null, err=error: 型integerの入力構文が無効です: "NaN"
+[2016-09-28 13:16:59.549] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:16:59.552] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:16:59.555] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:16:59.555] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:16:59.558] [INFO] app - Entering cheese testing
+[2016-09-28 13:16:59.588] [INFO] app - app.port=3000
+[2016-09-28 13:17:06.542] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:17:06.764] [INFO] app - /app/search/near request start
+[2016-09-28 13:17:06.788] [DEBUG] app - hospitalDao.getListNear: lat=38.272477,lng=140.852924
+[2016-09-28 13:17:06.793] [ERROR] app - hospitalDao.getListNear query error. { error: 型integerの入力構文が無効です: "NaN"
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 115,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\utils\\adt\\numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+[2016-09-28 13:17:06.808] [DEBUG] app - result=null, err=error: 型integerの入力構文が無効です: "NaN"
+[2016-09-28 13:17:32.048] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:17:32.051] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:17:32.054] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:17:32.054] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:17:32.057] [INFO] app - Entering cheese testing
+[2016-09-28 13:17:32.086] [INFO] app - app.port=3000
+[2016-09-28 13:17:34.027] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:17:34.245] [INFO] app - /app/search/near request start
+[2016-09-28 13:17:34.268] [DEBUG] app - hospitalDao.getListNear: lat=38272477,lng=140852924
+[2016-09-28 13:17:34.272] [ERROR] app - hospitalDao.getListNear query error. { error: 型integerの入力構文が無効です: "NaN"
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 115,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\utils\\adt\\numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+[2016-09-28 13:17:34.286] [DEBUG] app - result=null, err=error: 型integerの入力構文が無効です: "NaN"
+[2016-09-28 13:18:30.649] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:18:30.652] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:18:30.655] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:18:30.656] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:18:30.659] [INFO] app - Entering cheese testing
+[2016-09-28 13:18:30.688] [INFO] app - app.port=3000
+[2016-09-28 13:18:34.811] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:18:35.024] [INFO] app - /app/search/near request start
+[2016-09-28 13:18:35.047] [DEBUG] app - hospitalDao.getListNear: lat=38272477,lng=140852924,range=4300
+[2016-09-28 13:18:35.051] [ERROR] app - hospitalDao.getListNear query error. { error: 型integerの入力構文が無効です: "NaN"
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 115,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\utils\\adt\\numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+[2016-09-28 13:18:35.066] [DEBUG] app - result=null, err=error: 型integerの入力構文が無効です: "NaN"
+[2016-09-28 13:20:04.086] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:20:04.089] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:20:04.092] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:20:04.093] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:20:04.095] [INFO] app - Entering cheese testing
+[2016-09-28 13:20:04.125] [INFO] app - app.port=3000
+[2016-09-28 13:20:07.273] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:20:07.510] [INFO] app - /app/search/near request start
+[2016-09-28 13:20:07.534] [DEBUG] app - hospitalDao.getListNear: lat=38272477,lng=140852924,range=5
+[2016-09-28 13:20:07.539] [ERROR] app - hospitalDao.getListNear query error. { error: 型integerの入力構文が無効です: "NaN"
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 115,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\utils\\adt\\numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+[2016-09-28 13:20:07.556] [DEBUG] app - result=null, err=error: 型integerの入力構文が無効です: "NaN"
+[2016-09-28 13:20:52.836] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:20:52.839] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:20:52.842] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:20:52.843] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:20:52.846] [INFO] app - Entering cheese testing
+[2016-09-28 13:20:52.873] [INFO] app - app.port=3000
+[2016-09-28 13:20:56.383] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:20:56.595] [INFO] app - /app/search/near request start
+[2016-09-28 13:20:56.618] [DEBUG] app - hospitalDao.getListNear: lat=38268177,lng=140852924,range=5
+[2016-09-28 13:20:56.622] [ERROR] app - hospitalDao.getListNear query error. { error: 型integerの入力構文が無効です: "NaN"
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 115,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\utils\\adt\\numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+[2016-09-28 13:20:56.637] [DEBUG] app - result=null, err=error: 型integerの入力構文が無効です: "NaN"
+[2016-09-28 13:23:02.563] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:23:02.566] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:23:02.569] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:23:02.570] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:23:02.572] [INFO] app - Entering cheese testing
+[2016-09-28 13:23:02.600] [INFO] app - app.port=3000
+[2016-09-28 13:23:05.465] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:23:05.693] [INFO] app - /app/search/near request start
+[2016-09-28 13:23:05.717] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=NaN,range=5
+[2016-09-28 13:23:05.721] [ERROR] app - hospitalDao.getListNear query error. { error: 型integerの入力構文が無効です: "NaN"
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 115,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\utils\\adt\\numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+[2016-09-28 13:23:05.734] [DEBUG] app - result=null, err=error: 型integerの入力構文が無効です: "NaN"
+[2016-09-28 13:23:53.978] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:23:53.981] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:23:53.984] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:23:53.984] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:23:53.987] [INFO] app - Entering cheese testing
+[2016-09-28 13:23:54.016] [INFO] app - app.port=3000
+[2016-09-28 13:23:56.960] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:23:57.181] [INFO] app - /app/search/near request start
+[2016-09-28 13:23:57.205] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 13:23:57.225] [DEBUG] app - result=[object Object], err=null
+[2016-09-28 13:24:26.774] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:24:26.777] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:24:26.780] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:24:26.780] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:24:26.783] [INFO] app - Entering cheese testing
+[2016-09-28 13:24:26.812] [INFO] app - app.port=3000
+[2016-09-28 13:24:30.385] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:24:30.603] [INFO] app - /app/search/near request start
+[2016-09-28 13:24:30.627] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 13:24:30.638] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 13:35:35.849] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:35:35.865] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:35:35.865] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:35:35.865] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:35:35.865] [INFO] app - Entering cheese testing
+[2016-09-28 13:35:35.896] [INFO] app - app.port=3000
+[2016-09-28 13:35:41.852] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:35:42.059] [INFO] app - /app/search/near request start
+[2016-09-28 13:35:42.090] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 13:35:42.106] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 13:36:40.747] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:36:40.747] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:36:40.747] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:36:40.747] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:36:40.747] [INFO] app - Entering cheese testing
+[2016-09-28 13:36:40.779] [INFO] app - app.port=3000
+[2016-09-28 13:36:43.911] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:36:44.137] [INFO] app - /app/search/near request start
+[2016-09-28 13:36:44.160] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 13:36:44.175] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 13:36:45.550] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:36:45.556] [INFO] app - /app/search/near request start
+[2016-09-28 13:36:45.556] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 13:36:45.556] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 13:36:56.781] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 13:36:56.781] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:36:56.781] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 13:36:56.781] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 13:36:56.797] [INFO] app - Entering cheese testing
+[2016-09-28 13:36:56.812] [INFO] app - app.port=3000
+[2016-09-28 13:36:59.335] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2016-09-28 13:36:59.545] [INFO] app - /app/search/near request start
+[2016-09-28 13:36:59.576] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 13:36:59.592] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 13:37:07.815] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=5 request start
+[2016-09-28 13:37:07.826] [INFO] app - /app/search/near request start
+[2016-09-28 13:37:07.826] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 13:37:07.842] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 13:37:31.537] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=15 request start
+[2016-09-28 13:37:31.552] [INFO] app - /app/search/near request start
+[2016-09-28 13:37:31.552] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 13:37:31.552] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 13:37:38.296] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=5&limit=25 request start
+[2016-09-28 13:37:38.304] [INFO] app - /app/search/near request start
+[2016-09-28 13:37:38.304] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 13:37:38.304] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 13:37:42.978] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=10&limit=25 request start
+[2016-09-28 13:37:42.988] [INFO] app - /app/search/near request start
+[2016-09-28 13:37:42.988] [DEBUG] app - hospitalDao.getListNear: minLat=38263877,minLng=140841424,range=10
+[2016-09-28 13:37:42.988] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 13:37:52.852] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=15&limit=25 request start
+[2016-09-28 13:37:52.856] [INFO] app - /app/search/near request start
+[2016-09-28 13:38:02.102] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=100&limit=25 request start
+[2016-09-28 13:38:02.118] [INFO] app - /app/search/near request start
+[2016-09-28 13:38:02.118] [DEBUG] app - hospitalDao.getListNear: minLat=38186477,minLng=140737924,range=100
+[2016-09-28 13:38:02.134] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 13:38:06.116] [INFO] app - /test/search_near?lat=38.272477&lng=140.852924&range=100&limit=5 request start
+[2016-09-28 13:38:06.126] [INFO] app - /app/search/near request start
+[2016-09-28 13:38:06.126] [DEBUG] app - hospitalDao.getListNear: minLat=38186477,minLng=140737924,range=100
+[2016-09-28 13:38:06.126] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 13:41:41.990] [INFO] app - /test/search_near?lat=38.272477&lng=150.852924&range=100&limit=5 request start
+[2016-09-28 13:41:41.999] [INFO] app - /app/search/near request start
+[2016-09-28 13:41:42.014] [DEBUG] app - hospitalDao.getListNear: minLat=38186477,minLng=150737924,range=100
+[2016-09-28 13:41:42.014] [DEBUG] app - result=null, err=null
+[2016-09-28 14:21:43.663] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 14:21:43.679] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 14:21:43.679] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 14:21:43.679] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 14:21:43.679] [INFO] app - Entering cheese testing
+[2016-09-28 14:21:43.710] [INFO] app - app.port=3000
+[2016-09-28 14:21:47.246] [INFO] app - /test/search_name?hname=àÈã@&limit=20 request start
+[2016-09-28 14:21:47.483] [INFO] app - /app/search/name request start
+[2016-09-28 14:21:47.514] [DEBUG] app - hospitalDao.getListByName: name=àÈã@
+[2016-09-28 14:21:47.514] [DEBUG] app - result=null, err=null
+[2016-09-28 14:47:42.540] [INFO] app - /test/search_name?hname=àÈã@&limit=20 request start
+[2016-09-28 14:47:42.551] [INFO] app - /app/search/name request start
+[2016-09-28 14:47:42.567] [DEBUG] app - hospitalDao.getListByName: name=àÈã@
+[2016-09-28 14:47:42.583] [DEBUG] app - result=null, err=null
+[2016-09-28 14:48:03.916] [INFO] app - /test/search_name?hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&limit=20 request start
+[2016-09-28 14:48:03.930] [INFO] app - /app/search/name request start
+[2016-09-28 14:48:03.930] [DEBUG] app - hospitalDao.getListByName: name=内科医院
+[2016-09-28 14:48:03.930] [DEBUG] app - result=null, err=null
+[2016-09-28 15:03:42.668] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:03:42.668] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:03:42.684] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:03:42.684] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:03:42.684] [INFO] app - Entering cheese testing
+[2016-09-28 15:03:42.715] [INFO] app - app.port=3000
+[2016-09-28 15:03:44.332] [INFO] app - /test/search_name?hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&limit=20 request start
+[2016-09-28 15:03:44.586] [INFO] app - /app/search/name request start
+[2016-09-28 15:03:44.601] [DEBUG] app - hospitalDao.getListByName: name=内科医院
+[2016-09-28 15:04:26.316] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:04:26.332] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:04:26.332] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:04:26.332] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:04:26.332] [INFO] app - Entering cheese testing
+[2016-09-28 15:04:26.363] [INFO] app - app.port=3000
+[2016-09-28 15:04:28.520] [INFO] app - /test/search_name?hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&limit=20 request start
+[2016-09-28 15:04:28.748] [INFO] app - /app/search/name request start
+[2016-09-28 15:04:28.763] [DEBUG] app - hospitalDao.getListByName: name=内科医院
+[2016-09-28 15:04:28.779] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 15:13:29.878] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:13:29.894] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:13:29.894] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:13:29.894] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:13:29.894] [INFO] app - Entering cheese testing
+[2016-09-28 15:13:29.910] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:13:29.925] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:13:29.925] [INFO] app - app.port=3000
+[2016-09-28 15:13:32.800] [INFO] app - /test/search_name?hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&limit=20 request start
+[2016-09-28 15:13:58.608] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:13:58.608] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:13:58.608] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:13:58.608] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:13:58.623] [INFO] app - Entering cheese testing
+[2016-09-28 15:13:58.639] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:13:58.639] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:13:58.655] [INFO] app - app.port=3000
+[2016-09-28 15:14:00.436] [INFO] app - /test/search_name?hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&limit=20 request start
+[2016-09-28 15:14:25.325] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:14:25.325] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:14:25.325] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:14:25.325] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:14:25.325] [INFO] app - Entering cheese testing
+[2016-09-28 15:14:25.382] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:14:25.382] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:14:25.398] [INFO] app - app.port=3000
+[2016-09-28 15:14:27.718] [INFO] app - /test/search_name?hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&limit=20 request start
+[2016-09-28 15:14:27.722] [INFO] app - /test/search_name?hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&limit=20 request start
+[2016-09-28 15:17:31.948] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:17:31.963] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:17:31.963] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:17:31.963] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:17:31.963] [INFO] app - Entering cheese testing
+[2016-09-28 15:17:31.995] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:17:31.995] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:17:31.995] [INFO] app - app.port=3000
+[2016-09-28 15:17:33.617] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:32:32.048] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:32:32.048] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:32:32.048] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:32:32.048] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:32:32.064] [INFO] app - Entering cheese testing
+[2016-09-28 15:32:32.079] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:32:32.079] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:32:32.079] [INFO] app - app.port=3000
+[2016-09-28 15:34:11.558] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:34:11.558] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:34:11.558] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:34:11.558] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:34:11.558] [INFO] app - Entering cheese testing
+[2016-09-28 15:34:11.589] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:34:11.589] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:34:11.589] [INFO] app - app.port=3000
+[2016-09-28 15:34:17.300] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:34:28.172] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:35:08.960] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:35:08.960] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:35:08.975] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:35:08.975] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:35:08.975] [INFO] app - Entering cheese testing
+[2016-09-28 15:35:08.991] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:35:08.991] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:35:09.007] [INFO] app - app.port=3000
+[2016-09-28 15:35:16.373] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:35:51.710] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:35:51.710] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:35:51.710] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:35:51.710] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:35:51.710] [INFO] app - Entering cheese testing
+[2016-09-28 15:35:51.741] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:35:51.741] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:35:51.741] [INFO] app - app.port=3000
+[2016-09-28 15:35:55.106] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:36:17.093] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:36:17.108] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:36:17.108] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:36:17.108] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:36:17.108] [INFO] app - Entering cheese testing
+[2016-09-28 15:36:17.139] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:36:17.139] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:36:17.139] [INFO] app - app.port=3000
+[2016-09-28 15:36:19.449] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:41:42.657] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:41:42.657] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:41:42.657] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:41:42.657] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:41:42.672] [INFO] app - Entering cheese testing
+[2016-09-28 15:41:42.688] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:41:42.688] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:41:42.704] [INFO] app - app.port=3000
+[2016-09-28 15:41:49.835] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:42:11.799] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:42:11.814] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:42:11.814] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:42:11.814] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:42:11.814] [INFO] app - Entering cheese testing
+[2016-09-28 15:42:11.830] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:42:11.830] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:42:11.846] [INFO] app - app.port=3000
+[2016-09-28 15:42:14.163] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:42:14.442] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:42:14.457] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:42:14.473] [ERROR] app - customerDao.insertOne query error. { error: 列"id"内のNULL値はNOT NULL制約違反です
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 317,
+  severity: 'ERROR',
+  code: '23502',
+  detail: '失敗した行は(null, 田中　太郎, たなか　たろう, 19780129, 0, 2, 525543a4-df32-446e-9be7-f9b75f69771a, 1, 2016-09-28 15:42:14.458, null)を含みます',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'customer',
+  column: 'id',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\executor\\execMain.c',
+  line: '1610',
+  routine: 'ExecConstraints' }
+[2016-09-28 15:42:14.489] [DEBUG] app - result=null, err=error: 列"id"内のNULL値はNOT NULL制約違反です
+[2016-09-28 15:44:56.490] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:44:56.505] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:44:56.520] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:44:56.520] [DEBUG] app - result=5c309338-591b-4207-a0b7-3e3b11b419ab, err=null
+[2016-09-28 15:45:00.008] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:00.009] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:00.009] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:00.009] [DEBUG] app - result=838835f4-3f23-416c-a5d3-25ac76da6149, err=null
+[2016-09-28 15:45:00.348] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:00.364] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:00.364] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:00.364] [DEBUG] app - result=ac7d33d4-f42d-4198-904d-28993b2a113f, err=null
+[2016-09-28 15:45:00.536] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:00.536] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:00.536] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:00.553] [DEBUG] app - result=22cc6003-299a-4293-931c-1c9cab3efb99, err=null
+[2016-09-28 15:45:00.702] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:00.702] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:00.718] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:00.718] [DEBUG] app - result=ea782032-b928-406d-a61d-ed6343714bb4, err=null
+[2016-09-28 15:45:00.859] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:00.859] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:00.874] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:00.874] [DEBUG] app - result=de5a49fa-733e-4d79-a8e4-d1a2288f6e95, err=null
+[2016-09-28 15:45:00.999] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:00.999] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:00.999] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:00.999] [DEBUG] app - result=1dcdd1b6-5cce-4463-b35d-73dfd83d15a5, err=null
+[2016-09-28 15:45:01.124] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:01.136] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:01.136] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:01.136] [DEBUG] app - result=460ba02e-1d59-4e47-9e2e-21b06695feba, err=null
+[2016-09-28 15:45:01.255] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:01.255] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:01.255] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:01.255] [DEBUG] app - result=bdaf2a82-2c73-4a19-b5c7-2683bda6ff86, err=null
+[2016-09-28 15:45:01.396] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:01.396] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:01.412] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:01.412] [DEBUG] app - result=a4393c15-480a-40d0-97f6-0d5adfa0131f, err=null
+[2016-09-28 15:45:01.521] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:01.537] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:01.537] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:01.537] [DEBUG] app - result=cfc86037-d395-496b-9219-ee5863cbade0, err=null
+[2016-09-28 15:45:01.662] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:01.662] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:01.662] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:01.677] [DEBUG] app - result=7b9ef8a9-f5d2-4945-8081-6d3daefa6152, err=null
+[2016-09-28 15:45:01.802] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:01.802] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:01.802] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:01.802] [DEBUG] app - result=b3a66c56-8748-46e8-b6b0-e9db5f839b11, err=null
+[2016-09-28 15:45:01.943] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:01.943] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:01.943] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:01.943] [DEBUG] app - result=63447adc-e15d-447b-a40b-47b18b2557b5, err=null
+[2016-09-28 15:45:02.099] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:02.099] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:02.099] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:02.099] [DEBUG] app - result=b6228204-bc19-478e-8bcb-9ee7fee5ea3e, err=null
+[2016-09-28 15:45:02.247] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:02.261] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:02.261] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:02.261] [DEBUG] app - result=33c7242c-5ba6-41ee-97a5-333b8d78c97e, err=null
+[2016-09-28 15:45:02.417] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:02.432] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:02.432] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:02.432] [DEBUG] app - result=3eb1119a-1077-4171-a444-f588ae8f82fb, err=null
+[2016-09-28 15:45:02.651] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:02.651] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:02.651] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:02.651] [DEBUG] app - result=76df2529-2d09-4eae-8103-07fe339d6477, err=null
+[2016-09-28 15:45:02.932] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:02.932] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:02.932] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:02.932] [DEBUG] app - result=de23df8d-b163-4032-ad1f-41c9ba00465e, err=null
+[2016-09-28 15:45:06.396] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:06.401] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:06.433] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:06.433] [DEBUG] app - result=c670e2cf-021c-401f-a753-92019de34d9f, err=null
+[2016-09-28 15:45:06.589] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:06.605] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:06.605] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:06.605] [DEBUG] app - result=dff5d529-6a5d-467e-8726-e68a09192c81, err=null
+[2016-09-28 15:45:06.745] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:06.761] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:06.761] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:06.761] [DEBUG] app - result=21994468-488b-4db2-ad94-d71037f1c961, err=null
+[2016-09-28 15:45:06.917] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:06.917] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:06.917] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:06.917] [DEBUG] app - result=eb00fead-b88c-4f3f-87f5-a3fdeac6a862, err=null
+[2016-09-28 15:45:07.058] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:07.073] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:07.073] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:07.073] [DEBUG] app - result=6f685e31-0076-4866-8a57-6390e3d3ad4c, err=null
+[2016-09-28 15:45:07.219] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:07.219] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:07.219] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:07.219] [DEBUG] app - result=c3ac388b-f089-4153-8a01-da76319134dc, err=null
+[2016-09-28 15:45:07.407] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:07.413] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:07.413] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:07.413] [DEBUG] app - result=9f7b87fc-d601-401c-9c5c-65ff31dc2f37, err=null
+[2016-09-28 15:45:07.554] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:07.570] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:07.570] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:07.570] [DEBUG] app - result=9307ae1e-66ce-4908-8025-ff15b533d39b, err=null
+[2016-09-28 15:45:07.757] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:07.757] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:07.757] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:07.757] [DEBUG] app - result=7ec7991b-bc4e-4e51-8e13-6df6f08416be, err=null
+[2016-09-28 15:45:07.945] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:07.945] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:07.945] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:07.945] [DEBUG] app - result=ba70daf2-580a-4a8d-ae7f-55434c510d1e, err=null
+[2016-09-28 15:45:08.159] [INFO] app - /test/addCustomer request start
+[2016-09-28 15:45:08.163] [INFO] app - /app/user_register/register request start
+[2016-09-28 15:45:08.164] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-28 15:45:08.167] [DEBUG] app - result=e9869283-dfe1-45db-bd69-aaf35b4c2dc3, err=null
+[2016-09-28 15:45:21.100] [INFO] app - /test/confirmCustomer?k=de23df8d-b163-4032-ad1f-41c9ba00465e&p=password request start
+[2016-09-28 15:45:21.109] [DEBUG] app - k=de23df8d-b163-4032-ad1f-41c9ba00465e
+[2016-09-28 15:45:21.110] [INFO] app - /app/user_register/confirm request start
+[2016-09-28 15:45:21.110] [DEBUG] app - customerDao.confirmOne:de23df8d-b163-4032-ad1f-41c9ba00465e
+[2016-09-28 15:45:21.110] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 1,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-28 15:45:21.298] [DEBUG] app - { command: 'INSERT',
+  rowCount: 1,
+  oid: 0,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-28 15:45:21.298] [DEBUG] app - result=c84b8eb8-f287-4f04-b53f-b26790b2d0f4, err=null
+[2016-09-28 15:45:49.903] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 15:45:49.905] [INFO] app - /app/search/near request start
+[2016-09-28 15:45:49.905] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 15:45:49.905] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 15:45:49.905] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 15:45:58.307] [INFO] app - /test/search_name?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&limit=20 request start
+[2016-09-28 15:45:58.319] [INFO] app - /app/search/name request start
+[2016-09-28 15:45:58.319] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 15:45:58.319] [DEBUG] app - hospitalDao.getListByName: name=内科医院
+[2016-09-28 15:45:58.319] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 15:46:03.103] [INFO] app - /test/search_name?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f2&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&limit=20 request start
+[2016-09-28 15:46:03.104] [INFO] app - /app/search/name request start
+[2016-09-28 15:46:03.104] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 15:46:03.104] [DEBUG] app - hospitalDao.getListByName: name=内科医院
+[2016-09-28 15:46:03.104] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 15:47:20.222] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:47:20.222] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:47:20.222] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 15:47:20.222] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:47:20.222] [INFO] app - Entering cheese testing
+[2016-09-28 15:47:20.253] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 15:47:20.253] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 15:47:20.253] [INFO] app - app.port=3000
+[2016-09-28 15:47:24.605] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 15:47:24.832] [INFO] app - /app/search/near request start
+[2016-09-28 15:47:24.863] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 15:47:24.863] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 15:47:24.879] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 16:14:32.123] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:14:32.123] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:14:32.123] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 16:14:32.123] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:14:32.138] [INFO] app - Entering cheese testing
+[2016-09-28 16:14:32.163] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:14:32.163] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:14:32.178] [INFO] app - app.port=3000
+[2016-09-28 16:14:36.610] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 16:14:36.847] [INFO] app - /app/search/near request start
+[2016-09-28 16:14:36.863] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 16:14:36.863] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 16:14:36.879] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 16:16:38.091] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:16:38.091] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:16:38.091] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 16:16:38.091] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:16:38.091] [INFO] app - Entering cheese testing
+[2016-09-28 16:16:38.123] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:16:38.123] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:16:38.123] [INFO] app - app.port=3000
+[2016-09-28 16:16:40.497] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 16:16:56.405] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 16:16:59.181] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 16:17:06.540] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 16:18:15.827] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:18:15.827] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:18:15.827] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 16:18:15.827] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:18:15.827] [INFO] app - Entering cheese testing
+[2016-09-28 16:18:15.858] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:18:15.858] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:18:15.858] [INFO] app - app.port=3000
+[2016-09-28 16:18:18.128] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 16:19:24.991] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:19:24.991] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:19:25.006] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 16:19:25.006] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:19:25.006] [INFO] app - Entering cheese testing
+[2016-09-28 16:19:25.022] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:19:25.022] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:19:25.038] [INFO] app - app.port=3000
+[2016-09-28 16:19:26.972] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 16:19:27.211] [INFO] app - /app/search/near request start
+[2016-09-28 16:19:27.231] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 16:19:27.238] [INFO] app - auth ok
+[2016-09-28 16:19:27.238] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-28 16:19:27.253] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-28 16:19:53.355] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 16:19:53.362] [INFO] app - /app/search/near request start
+[2016-09-28 16:19:53.362] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 16:20:01.338] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 16:20:01.355] [INFO] app - /app/search/near request start
+[2016-09-28 16:20:01.355] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 16:20:01.963] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 16:20:01.979] [INFO] app - /app/search/near request start
+[2016-09-28 16:20:01.979] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 16:20:02.629] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 16:20:02.633] [INFO] app - /app/search/near request start
+[2016-09-28 16:20:02.633] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 16:20:03.211] [INFO] app - /test/search_near?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-28 16:20:03.211] [INFO] app - /app/search/near request start
+[2016-09-28 16:20:03.211] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 16:20:15.143] [INFO] app - /test/search_name?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&limit=20 request start
+[2016-09-28 16:20:15.145] [INFO] app - /app/search/name request start
+[2016-09-28 16:20:15.145] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 16:20:19.579] [INFO] app - /test/confirmCustomer?k=de23df8d-b163-4032-ad1f-41c9ba00465e&p=password request start
+[2016-09-28 16:20:19.581] [DEBUG] app - k=de23df8d-b163-4032-ad1f-41c9ba00465e
+[2016-09-28 16:20:19.582] [INFO] app - /app/user_register/confirm request start
+[2016-09-28 16:20:19.582] [DEBUG] app - customerDao.confirmOne:de23df8d-b163-4032-ad1f-41c9ba00465e
+[2016-09-28 16:20:19.582] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 1,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-28 16:20:19.722] [ERROR] app - customerDao.confirmOne query error. { error: 重複キーが一意性制約"access_info_pkey"に違反しています
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 280,
+  severity: 'ERROR',
+  code: '23505',
+  detail: 'キー (auth_key)=(de23df8d-b163-4032-ad1f-41c9ba00465e) はすでに存在します',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'access_info',
+  column: undefined,
+  dataType: undefined,
+  constraint: 'access_info_pkey',
+  file: 'src\\backend\\access\\nbtree\\nbtinsert.c',
+  line: '398',
+  routine: '_bt_check_unique' }
+[2016-09-28 16:20:19.722] [DEBUG] app - result=null, err=error: 重複キーが一意性制約"access_info_pkey"に違反しています
+[2016-09-28 16:24:45.939] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:24:45.939] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:24:45.955] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 16:24:45.955] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:24:45.955] [INFO] app - Entering cheese testing
+[2016-09-28 16:24:45.971] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:24:45.971] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:24:45.986] [INFO] app - app.port=3000
+[2016-09-28 16:24:54.585] [INFO] app - /test/confirmCustomer?k=de23df8d-b163-4032-ad1f-41c9ba00465e&p=password request start
+[2016-09-28 16:24:54.766] [DEBUG] app - k=de23df8d-b163-4032-ad1f-41c9ba00465e
+[2016-09-28 16:24:54.797] [INFO] app - /app/user_register/confirm request start
+[2016-09-28 16:24:54.828] [DEBUG] app - customerDao.confirmOne:de23df8d-b163-4032-ad1f-41c9ba00465e
+[2016-09-28 16:24:54.828] [ERROR] app - 未承認ユーザが存在しません. null
+[2016-09-28 16:24:54.828] [DEBUG] app - result=null, err=null
+[2016-09-28 16:32:06.517] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:32:06.517] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:32:06.517] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 16:32:06.517] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:32:06.517] [INFO] app - Entering cheese testing
+[2016-09-28 16:32:06.548] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:32:06.548] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:32:06.548] [INFO] app - app.port=3000
+[2016-09-28 16:32:08.969] [INFO] app - /test/confirmCustomer?k=de23df8d-b163-4032-ad1f-41c9ba00465e&p=password request start
+[2016-09-28 16:32:09.175] [DEBUG] app - k=de23df8d-b163-4032-ad1f-41c9ba00465e
+[2016-09-28 16:32:09.206] [INFO] app - /app/user_register/confirm request start
+[2016-09-28 16:32:09.222] [DEBUG] app - customerDao.confirmOne:de23df8d-b163-4032-ad1f-41c9ba00465e
+[2016-09-28 16:32:09.237] [ERROR] app - 未承認ユーザが存在しません.
+[2016-09-28 16:32:09.237] [DEBUG] app - result=null, err=Error: 4010
+[2016-09-28 16:33:25.451] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:33:25.451] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:33:25.466] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 16:33:25.466] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:33:25.466] [INFO] app - Entering cheese testing
+[2016-09-28 16:33:25.498] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 16:33:25.498] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 16:33:25.498] [INFO] app - app.port=3000
+[2016-09-28 16:33:27.926] [INFO] app - /test/confirmCustomer?k=de23df8d-b163-4032-ad1f-41c9ba00465e&p=password request start
+[2016-09-28 16:33:28.114] [DEBUG] app - k=de23df8d-b163-4032-ad1f-41c9ba00465e
+[2016-09-28 16:33:28.161] [INFO] app - /app/user_register/confirm request start
+[2016-09-28 16:33:28.183] [DEBUG] app - customerDao.confirmOne:de23df8d-b163-4032-ad1f-41c9ba00465e
+[2016-09-28 16:33:28.183] [ERROR] app - 未承認ユーザが存在しません.
+[2016-09-28 16:33:28.183] [DEBUG] app - result=null, err=4010
+[2016-09-28 16:37:02.052] [INFO] app - /test/confirmCustomer?k=de23df8d-b163-4032-ad1f-41c9ba00465e&p=password request start
+[2016-09-28 16:37:02.054] [DEBUG] app - k=de23df8d-b163-4032-ad1f-41c9ba00465e
+[2016-09-28 16:37:02.055] [INFO] app - /app/user_register/confirm request start
+[2016-09-28 16:37:02.071] [DEBUG] app - customerDao.confirmOne:de23df8d-b163-4032-ad1f-41c9ba00465e
+[2016-09-28 16:37:02.071] [ERROR] app - 未承認ユーザが存在しません.
+[2016-09-28 16:37:02.071] [DEBUG] app - result=null, err=4010
+[2016-09-28 17:01:00.242] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 17:01:00.242] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 17:01:00.258] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-28 17:01:00.258] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 17:01:00.258] [INFO] app - Entering cheese testing
+[2016-09-28 17:01:00.274] [INFO] app - ./pg/customerDao be loading
+[2016-09-28 17:01:00.274] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-28 17:01:00.289] [INFO] app - app.port=3000
+[2016-09-28 17:01:08.160] [INFO] app - /test/search_address?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&address=%E7%A6%8F%E5%B2%A1%E5%B8%82&limit=20 request start
+[2016-09-28 17:01:08.387] [INFO] app - /app/search/address request start
+[2016-09-28 17:01:08.418] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 17:01:35.400] [INFO] app - /test/search_address?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&address=%E7%A6%8F%E5%B2%A1%E5%B8%82&limit=20 request start
+[2016-09-28 17:01:35.413] [INFO] app - /app/search/address request start
+[2016-09-28 17:01:35.413] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-28 17:01:35.428] [INFO] app - auth ok
+[2016-09-28 17:01:35.428] [DEBUG] app - hospitalDao.getListByAddress: address=福岡市
+[2016-09-28 17:01:35.444] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null

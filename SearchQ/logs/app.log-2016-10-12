@@ -1,0 +1,11 @@
+[2016-10-12 20:44:06.641] [INFO] app - ./pg/customerDao be loading
+[2016-10-12 20:44:06.645] [INFO] app - ./pg/accessInfoDao be loading
+[2016-10-12 20:44:06.650] [INFO] app - ./pg/hospitalAction be loading
+[2016-10-12 20:44:06.650] [INFO] app - ./pg/accessInfoDao be loading
+[2016-10-12 20:44:06.654] [INFO] app - Entering cheese testing
+[2016-10-12 20:44:06.687] [INFO] app - ./pg/customerDao be loading
+[2016-10-12 20:44:06.687] [INFO] app - ./pg/accessInfoDao be loading
+[2016-10-12 20:44:06.698] [INFO] app - app.port=3000
+[2016-10-12 20:58:01.912] [INFO] app - /app/user_register/register request start
+[2016-10-12 20:58:02.371] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-10-12 20:58:02.690] [DEBUG] app - result=9122624f-d784-4bfd-abf4-c8db5f80e2eb, err=null

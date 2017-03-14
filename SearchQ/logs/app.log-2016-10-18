@@ -1,0 +1,18 @@
+[2016-10-18 19:35:49.525] [INFO] app - ./pg/customerDao be loading
+[2016-10-18 19:35:49.530] [INFO] app - ./pg/accessInfoDao be loading
+[2016-10-18 19:35:49.533] [INFO] app - ./pg/hospitalAction be loading
+[2016-10-18 19:35:49.533] [INFO] app - ./pg/accessInfoDao be loading
+[2016-10-18 19:35:49.536] [INFO] app - Entering cheese testing
+[2016-10-18 19:35:49.560] [INFO] app - ./pg/customerDao be loading
+[2016-10-18 19:35:49.560] [INFO] app - ./pg/accessInfoDao be loading
+[2016-10-18 19:35:49.566] [INFO] app - app.port=3000
+[2016-10-18 21:26:02.079] [INFO] app - /app/user_register/register request start
+[2016-10-18 21:26:02.477] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-10-18 21:26:02.698] [DEBUG] app - result=e01be1be-842d-4933-adb9-8418aa591b34, err=null
+[2016-10-18 21:28:25.413] [INFO] app - /app/user_register/register request start
+[2016-10-18 21:28:25.491] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-10-18 21:28:25.495] [DEBUG] app - result=ef96fc17-5bef-44ba-95d9-547136224ed1, err=null
+[2016-10-18 21:32:02.684] [INFO] app - /favicon.ico request start
+[2016-10-18 21:34:58.921] [INFO] app - /app/user_register/register request start
+[2016-10-18 21:34:58.974] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-10-18 21:34:58.977] [DEBUG] app - result=6d0f2814-bacb-4344-b0d5-bb727960dee6, err=null

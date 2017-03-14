@@ -1,0 +1,16 @@
+npm install express --save
+
+npm install basic-auth-connect
+npm install body-parser
+npm install cookie-parser
+npm install debug
+npm install dotenv
+npm install express-validator
+npm install jade
+npm install log4js
+npm install morgan
+npm install node-uuid
+
+npm install pg
+npm install pg-pool
+npm install request

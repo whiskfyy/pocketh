@@ -1,0 +1,343 @@
+[2017-03-01 14:39:48.351] [INFO] app - ./pg/customerDao be loading
+[2017-03-01 14:39:48.354] [INFO] app - ./pg/accessInfoDao be loading
+[2017-03-01 14:39:48.360] [INFO] app - ./pg/hospitalAction be loading
+[2017-03-01 14:39:48.360] [INFO] app - ./pg/accessInfoDao be loading
+[2017-03-01 14:39:48.363] [INFO] app - Entering cheese testing
+[2017-03-01 14:39:48.389] [INFO] app - ./pg/customerDao be loading
+[2017-03-01 14:39:48.389] [INFO] app - ./pg/accessInfoDao be loading
+[2017-03-01 14:39:48.395] [INFO] app - app.port=3000
+[2017-03-01 14:40:31.203] [INFO] app - /test/addCustomer request start
+[2017-03-01 14:40:31.832] [INFO] app - /nginx-logo.png request start
+[2017-03-01 14:40:31.834] [INFO] app - /poweredby.png request start
+[2017-03-01 14:40:32.001] [INFO] app - /favicon.ico request start
+[2017-03-01 14:45:38.261] [INFO] app - ./pg/customerDao be loading
+[2017-03-01 14:45:38.264] [INFO] app - ./pg/accessInfoDao be loading
+[2017-03-01 14:45:38.267] [INFO] app - ./pg/hospitalAction be loading
+[2017-03-01 14:45:38.268] [INFO] app - ./pg/accessInfoDao be loading
+[2017-03-01 14:45:38.270] [INFO] app - Entering cheese testing
+[2017-03-01 14:45:38.297] [INFO] app - ./pg/customerDao be loading
+[2017-03-01 14:45:38.297] [INFO] app - ./pg/accessInfoDao be loading
+[2017-03-01 14:45:38.303] [INFO] app - app.port=3000
+[2017-03-01 14:45:42.989] [INFO] app - /test/addCustomer request start
+[2017-03-01 14:45:43.225] [INFO] app - /app/user_register/register request start
+[2017-03-01 14:45:43.251] [DEBUG] app - customerDao.insertOne:[object Object]
+[2017-03-01 14:45:43.494] [DEBUG] app - result=473afda8-3cb5-41f8-bf7f-eaf7a0011c6a, err=null
+[2017-03-01 16:03:02.154] [INFO] app - ./mongo/customerDao be loading
+[2017-03-01 16:03:02.158] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-01 16:03:02.165] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-01 16:03:02.166] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-01 16:03:02.168] [INFO] app - Entering cheese testing
+[2017-03-01 16:03:02.199] [INFO] app - ./mongo/customerDao be loading
+[2017-03-01 16:03:02.199] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-01 16:03:02.208] [INFO] app - app.port=3000
+[2017-03-01 16:03:05.860] [INFO] app - /test/addCustomer request start
+[2017-03-01 16:03:06.154] [INFO] app - /app/user_register/register request start
+[2017-03-01 16:03:06.180] [DEBUG] app - customerDao.insertOne:[object Object]
+[2017-03-01 16:03:06.217] [DEBUG] app - result=7dbd2e74-4933-4eaf-b410-faa3509676bb, err=null
+[2017-03-01 16:04:18.215] [INFO] app - /test/addCustomer request start
+[2017-03-01 16:04:18.220] [INFO] app - /app/user_register/register request start
+[2017-03-01 16:04:18.226] [DEBUG] app - customerDao.insertOne:[object Object]
+[2017-03-01 16:04:18.227] [DEBUG] app - result=b9342ee1-bbc7-4934-a48b-6aa3bf130070, err=null
+[2017-03-01 16:25:36.064] [INFO] app - /test/addCustomer request start
+[2017-03-01 16:25:36.075] [INFO] app - /app/user_register/register request start
+[2017-03-01 16:25:36.084] [DEBUG] app - customerDao.insertOne:[object Object]
+[2017-03-01 16:25:36.086] [DEBUG] app - result=6de336da-cc38-4de7-9171-b660ecd98388, err=null
+[2017-03-01 16:26:04.435] [INFO] app - ./mongo/customerDao be loading
+[2017-03-01 16:26:04.438] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-01 16:26:04.442] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-01 16:26:04.442] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-01 16:26:04.445] [INFO] app - Entering cheese testing
+[2017-03-01 16:26:04.470] [INFO] app - ./mongo/customerDao be loading
+[2017-03-01 16:26:04.470] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-01 16:26:04.478] [INFO] app - app.port=3000
+[2017-03-01 16:26:27.806] [INFO] app - /test/confirmCustomer?k=6de336da-cc38-4de7-9171-b660ecd98388&p=pass request start
+[2017-03-01 16:26:28.025] [DEBUG] app - k=6de336da-cc38-4de7-9171-b660ecd98388
+[2017-03-01 16:26:28.059] [INFO] app - /app/user_register/confirm request start
+[2017-03-01 16:26:28.078] [DEBUG] app - customerDao.confirmOne:6de336da-cc38-4de7-9171-b660ecd98388
+[2017-03-01 16:26:28.091] [ERROR] app - 未承認ユーザが存在しません.
+[2017-03-01 16:26:28.091] [DEBUG] app - result=null, err=4010
+[2017-03-01 16:27:27.796] [INFO] app - /test/addCustomer request start
+[2017-03-01 16:27:27.803] [INFO] app - /app/user_register/register request start
+[2017-03-01 16:27:27.809] [DEBUG] app - customerDao.insertOne:[object Object]
+[2017-03-01 16:27:27.813] [DEBUG] app - result=ba707eee-ccf7-4b42-88ac-804e80b8218c, err=null
+[2017-03-01 16:27:59.522] [INFO] app - /test/confirmCustomer?k=ba707eee-ccf7-4b42-88ac-804e80b8218c&p=pass request start
+[2017-03-01 16:27:59.522] [DEBUG] app - k=ba707eee-ccf7-4b42-88ac-804e80b8218c
+[2017-03-01 16:27:59.526] [INFO] app - /app/user_register/confirm request start
+[2017-03-01 16:27:59.530] [DEBUG] app - customerDao.confirmOne:ba707eee-ccf7-4b42-88ac-804e80b8218c
+[2017-03-01 16:27:59.531] [DEBUG] app - { result: { ok: 1, nModified: 1, n: 1 },
+  connection: 
+   EventEmitter {
+     domain: null,
+     _events: 
+      { error: [Object],
+        close: [Object],
+        timeout: [Object],
+        parseError: [Object] },
+     _eventsCount: 4,
+     _maxListeners: undefined,
+     options: 
+      { host: 'localhost',
+        port: 27017,
+        size: 5,
+        connectionTimeout: 30000,
+        socketTimeout: 30000,
+        keepAlive: true,
+        keepAliveInitialDelay: 0,
+        noDelay: true,
+        ssl: false,
+        checkServerIdentity: true,
+        ca: null,
+        cert: null,
+        key: null,
+        passPhrase: null,
+        rejectUnauthorized: false,
+        promoteLongs: true,
+        promoteValues: true,
+        promoteBuffers: false,
+        reconnect: true,
+        reconnectInterval: 1000,
+        reconnectTries: 30,
+        domainsEnabled: false,
+        disconnectHandler: [Object],
+        cursorFactory: [Object],
+        emitError: true,
+        socketOptions: {},
+        clientInfo: [Object],
+        readPreference: [Object],
+        promiseLibrary: [Function: Promise],
+        bson: {} },
+     id: 2,
+     logger: { className: 'Connection' },
+     bson: {},
+     tag: undefined,
+     messageHandler: [Function],
+     maxBsonMessageSize: 67108864,
+     port: 27017,
+     host: 'localhost',
+     keepAlive: true,
+     keepAliveInitialDelay: 0,
+     noDelay: true,
+     connectionTimeout: 30000,
+     socketTimeout: 30000,
+     destroyed: false,
+     domainSocket: false,
+     singleBufferSerializtion: true,
+     serializationFunction: 'toBinUnified',
+     ca: null,
+     cert: null,
+     key: null,
+     passphrase: null,
+     ssl: false,
+     rejectUnauthorized: false,
+     checkServerIdentity: true,
+     responseOptions: 
+      { promoteLongs: true,
+        promoteValues: true,
+        promoteBuffers: false },
+     flushing: false,
+     queue: [],
+     connection: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: 'localhost',
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 8,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 483,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        _idleTimeout: 30000,
+        _idleNext: [Object],
+        _idlePrev: [Object],
+        _idleStart: 115685,
+        read: [Function],
+        _consuming: true },
+     writeStream: null,
+     hashedName: '29bafad3b32b11dc7ce934204952515ea5984b3c',
+     workItems: [],
+     buffer: null,
+     sizeOfMessage: 0,
+     bytesRead: 0,
+     stubBuffer: null },
+  message: 
+   { parsed: true,
+     index: 71,
+     raw: <Buffer 47 00 00 00 29 00 00 00 06 00 00 00 01 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 23 00 00 00 10 6f 6b 00 01 00 00 00 10 6e ... >,
+     data: <Buffer 47 00 00 00 29 00 00 00 06 00 00 00 01 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 23 00 00 00 10 6f 6b 00 01 00 00 00 10 6e ... >,
+     bson: {},
+     opts: 
+      { promoteLongs: true,
+        promoteValues: true,
+        promoteBuffers: false },
+     length: 71,
+     requestId: 41,
+     responseTo: 6,
+     responseFlags: 8,
+     cursorId: Long { _bsontype: 'Long', low_: 0, high_: 0 },
+     startingFrom: 0,
+     numberReturned: 1,
+     documents: [ [Object] ],
+     cursorNotFound: false,
+     queryFailure: false,
+     shardConfigStale: false,
+     awaitCapable: true,
+     promoteLongs: true,
+     promoteValues: true,
+     promoteBuffers: false,
+     hashedName: '29bafad3b32b11dc7ce934204952515ea5984b3c' },
+  modifiedCount: 1,
+  upsertedId: null,
+  upsertedCount: 0,
+  matchedCount: 1 }
+[2017-03-01 16:27:59.562] [DEBUG] app - { result: { ok: 1, nModified: 1, n: 1 },
+  connection: 
+   EventEmitter {
+     domain: null,
+     _events: 
+      { error: [Object],
+        close: [Object],
+        timeout: [Object],
+        parseError: [Object] },
+     _eventsCount: 4,
+     _maxListeners: undefined,
+     options: 
+      { host: 'localhost',
+        port: 27017,
+        size: 5,
+        connectionTimeout: 30000,
+        socketTimeout: 30000,
+        keepAlive: true,
+        keepAliveInitialDelay: 0,
+        noDelay: true,
+        ssl: false,
+        checkServerIdentity: true,
+        ca: null,
+        cert: null,
+        key: null,
+        passPhrase: null,
+        rejectUnauthorized: false,
+        promoteLongs: true,
+        promoteValues: true,
+        promoteBuffers: false,
+        reconnect: true,
+        reconnectInterval: 1000,
+        reconnectTries: 30,
+        domainsEnabled: false,
+        disconnectHandler: [Object],
+        cursorFactory: [Object],
+        emitError: true,
+        socketOptions: {},
+        clientInfo: [Object],
+        readPreference: [Object],
+        promiseLibrary: [Function: Promise],
+        bson: {} },
+     id: 2,
+     logger: { className: 'Connection' },
+     bson: {},
+     tag: undefined,
+     messageHandler: [Function],
+     maxBsonMessageSize: 67108864,
+     port: 27017,
+     host: 'localhost',
+     keepAlive: true,
+     keepAliveInitialDelay: 0,
+     noDelay: true,
+     connectionTimeout: 30000,
+     socketTimeout: 30000,
+     destroyed: false,
+     domainSocket: false,
+     singleBufferSerializtion: true,
+     serializationFunction: 'toBinUnified',
+     ca: null,
+     cert: null,
+     key: null,
+     passphrase: null,
+     ssl: false,
+     rejectUnauthorized: false,
+     checkServerIdentity: true,
+     responseOptions: 
+      { promoteLongs: true,
+        promoteValues: true,
+        promoteBuffers: false },
+     flushing: false,
+     queue: [],
+     connection: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: 'localhost',
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 8,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 779,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        _idleTimeout: 30000,
+        _idleNext: [Object],
+        _idlePrev: [Object],
+        _idleStart: 115715,
+        read: [Function],
+        _consuming: true },
+     writeStream: null,
+     hashedName: '29bafad3b32b11dc7ce934204952515ea5984b3c',
+     workItems: [],
+     buffer: null,
+     sizeOfMessage: 0,
+     bytesRead: 0,
+     stubBuffer: null },
+  message: 
+   { parsed: true,
+     index: 71,
+     raw: <Buffer 47 00 00 00 29 00 00 00 06 00 00 00 01 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 23 00 00 00 10 6f 6b 00 01 00 00 00 10 6e ... >,
+     data: <Buffer 47 00 00 00 29 00 00 00 06 00 00 00 01 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 23 00 00 00 10 6f 6b 00 01 00 00 00 10 6e ... >,
+     bson: {},
+     opts: 
+      { promoteLongs: true,
+        promoteValues: true,
+        promoteBuffers: false },
+     length: 71,
+     requestId: 41,
+     responseTo: 6,
+     responseFlags: 8,
+     cursorId: Long { _bsontype: 'Long', low_: 0, high_: 0 },
+     startingFrom: 0,
+     numberReturned: 1,
+     documents: [ [Object] ],
+     cursorNotFound: false,
+     queryFailure: false,
+     shardConfigStale: false,
+     awaitCapable: true,
+     promoteLongs: true,
+     promoteValues: true,
+     promoteBuffers: false,
+     hashedName: '29bafad3b32b11dc7ce934204952515ea5984b3c' },
+  modifiedCount: 1,
+  upsertedId: null,
+  upsertedCount: 0,
+  matchedCount: 1 }
+[2017-03-01 16:27:59.567] [DEBUG] app - result=54d1344f-f243-49a9-84b2-335635af68d6, err=null

@@ -1,0 +1,8 @@
+[2016-11-03 21:16:48.810] [INFO] app - ./pg/customerDao be loading
+[2016-11-03 21:16:48.814] [INFO] app - ./pg/accessInfoDao be loading
+[2016-11-03 21:16:48.818] [INFO] app - ./pg/hospitalAction be loading
+[2016-11-03 21:16:48.818] [INFO] app - ./pg/accessInfoDao be loading
+[2016-11-03 21:16:48.821] [INFO] app - Entering cheese testing
+[2016-11-03 21:16:48.849] [INFO] app - ./pg/customerDao be loading
+[2016-11-03 21:16:48.849] [INFO] app - ./pg/accessInfoDao be loading
+[2016-11-03 21:16:48.858] [INFO] app - app.port=3000

@@ -1,0 +1,22 @@
+{
+    "appenders": [
+		{
+		    "type": "console"
+		},
+        {
+            "type": "dateFile",
+            "category": "app",
+            "level": "INFO",
+            "filename": "logs/app.log",
+            "pattern": "-yyyy-MM-dd"
+        },
+        {
+            "type": "dateFile",
+            "category": "system",
+            "level": "WARN",
+            "filename": "logs/system.log",
+            "pattern": "-yyyy-MM-dd"
+        }
+    ],
+     "levels": {"app": "DEBUG", "system": "INFO"} 
+}

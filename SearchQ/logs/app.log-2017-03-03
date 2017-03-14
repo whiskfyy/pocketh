@@ -1,0 +1,542 @@
+[2017-03-03 16:38:15.172] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:38:15.176] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:38:15.182] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 16:38:15.182] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:38:15.185] [INFO] app - Entering cheese testing
+[2017-03-03 16:38:15.216] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:38:15.216] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:38:15.225] [INFO] app - app.port=3000
+[2017-03-03 16:39:12.429] [INFO] app - /test/addCustomer request start
+[2017-03-03 16:39:12.754] [INFO] app - /app/user_register/register request start
+[2017-03-03 16:39:12.774] [DEBUG] app - customerDao.insertOne:[object Object]
+[2017-03-03 16:39:12.827] [DEBUG] app - result=0acacc31-46bb-4a43-ae89-4dff1656cb45, err=null
+[2017-03-03 16:39:35.792] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:39:35.795] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:39:35.800] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 16:39:35.800] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:39:35.803] [INFO] app - Entering cheese testing
+[2017-03-03 16:39:35.828] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:39:35.828] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:39:35.836] [INFO] app - app.port=3000
+[2017-03-03 16:39:41.117] [INFO] app - /test/addCustomer request start
+[2017-03-03 16:39:41.335] [INFO] app - /app/user_register/register request start
+[2017-03-03 16:39:41.358] [DEBUG] app - customerDao.insertOne:[object Object]
+[2017-03-03 16:39:41.379] [DEBUG] app - result=1e02b4b0-29db-420a-8366-ffb624bb80f0, err=null
+[2017-03-03 16:40:25.642] [INFO] app - /test/confirmCustomer?k=1e02b4b0-29db-420a-8366-ffb624bb80f0&p=pass request start
+[2017-03-03 16:40:25.643] [DEBUG] app - k=1e02b4b0-29db-420a-8366-ffb624bb80f0
+[2017-03-03 16:40:25.647] [INFO] app - /app/user_register/confirm request start
+[2017-03-03 16:40:25.652] [DEBUG] app - customerDao.confirmOne:1e02b4b0-29db-420a-8366-ffb624bb80f0
+[2017-03-03 16:40:25.697] [DEBUG] app - { result: { ok: 1, nModified: 1, n: 1 },
+  connection: 
+   EventEmitter {
+     domain: null,
+     _events: 
+      { error: [Object],
+        close: [Object],
+        timeout: [Object],
+        parseError: [Object] },
+     _eventsCount: 4,
+     _maxListeners: undefined,
+     options: 
+      { host: 'localhost',
+        port: 27017,
+        size: 5,
+        connectionTimeout: 30000,
+        socketTimeout: 30000,
+        keepAlive: true,
+        keepAliveInitialDelay: 0,
+        noDelay: true,
+        ssl: false,
+        checkServerIdentity: true,
+        ca: null,
+        cert: null,
+        key: null,
+        passPhrase: null,
+        rejectUnauthorized: false,
+        promoteLongs: true,
+        promoteValues: true,
+        promoteBuffers: false,
+        reconnect: true,
+        reconnectInterval: 1000,
+        reconnectTries: 30,
+        domainsEnabled: false,
+        disconnectHandler: [Object],
+        cursorFactory: [Object],
+        emitError: true,
+        socketOptions: {},
+        clientInfo: [Object],
+        readPreference: [Object],
+        promiseLibrary: [Function: Promise],
+        bson: {} },
+     id: 1,
+     logger: { className: 'Connection' },
+     bson: {},
+     tag: undefined,
+     messageHandler: [Function],
+     maxBsonMessageSize: 67108864,
+     port: 27017,
+     host: 'localhost',
+     keepAlive: true,
+     keepAliveInitialDelay: 0,
+     noDelay: true,
+     connectionTimeout: 30000,
+     socketTimeout: 30000,
+     destroyed: false,
+     domainSocket: false,
+     singleBufferSerializtion: true,
+     serializationFunction: 'toBinUnified',
+     ca: null,
+     cert: null,
+     key: null,
+     passphrase: null,
+     ssl: false,
+     rejectUnauthorized: false,
+     checkServerIdentity: true,
+     responseOptions: 
+      { promoteLongs: true,
+        promoteValues: true,
+        promoteBuffers: false },
+     flushing: false,
+     queue: [],
+     connection: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: 'localhost',
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 8,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 484,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        _idleTimeout: 30000,
+        _idleNext: [Object],
+        _idlePrev: [Object],
+        _idleStart: 50512,
+        read: [Function],
+        _consuming: true },
+     writeStream: null,
+     hashedName: '29bafad3b32b11dc7ce934204952515ea5984b3c',
+     workItems: [],
+     buffer: null,
+     sizeOfMessage: 0,
+     bytesRead: 0,
+     stubBuffer: null },
+  message: 
+   { parsed: true,
+     index: 71,
+     raw: <Buffer 47 00 00 00 15 00 00 00 04 00 00 00 01 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 23 00 00 00 10 6f 6b 00 01 00 00 00 10 6e ... >,
+     data: <Buffer 47 00 00 00 15 00 00 00 04 00 00 00 01 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 23 00 00 00 10 6f 6b 00 01 00 00 00 10 6e ... >,
+     bson: {},
+     opts: 
+      { promoteLongs: true,
+        promoteValues: true,
+        promoteBuffers: false },
+     length: 71,
+     requestId: 21,
+     responseTo: 4,
+     responseFlags: 8,
+     cursorId: Long { _bsontype: 'Long', low_: 0, high_: 0 },
+     startingFrom: 0,
+     numberReturned: 1,
+     documents: [ [Object] ],
+     cursorNotFound: false,
+     queryFailure: false,
+     shardConfigStale: false,
+     awaitCapable: true,
+     promoteLongs: true,
+     promoteValues: true,
+     promoteBuffers: false,
+     hashedName: '29bafad3b32b11dc7ce934204952515ea5984b3c' },
+  modifiedCount: 1,
+  upsertedId: null,
+  upsertedCount: 0,
+  matchedCount: 1 }
+[2017-03-03 16:40:25.739] [DEBUG] app - { result: { ok: 1, nModified: 1, n: 1 },
+  connection: 
+   EventEmitter {
+     domain: null,
+     _events: 
+      { error: [Object],
+        close: [Object],
+        timeout: [Object],
+        parseError: [Object] },
+     _eventsCount: 4,
+     _maxListeners: undefined,
+     options: 
+      { host: 'localhost',
+        port: 27017,
+        size: 5,
+        connectionTimeout: 30000,
+        socketTimeout: 30000,
+        keepAlive: true,
+        keepAliveInitialDelay: 0,
+        noDelay: true,
+        ssl: false,
+        checkServerIdentity: true,
+        ca: null,
+        cert: null,
+        key: null,
+        passPhrase: null,
+        rejectUnauthorized: false,
+        promoteLongs: true,
+        promoteValues: true,
+        promoteBuffers: false,
+        reconnect: true,
+        reconnectInterval: 1000,
+        reconnectTries: 30,
+        domainsEnabled: false,
+        disconnectHandler: [Object],
+        cursorFactory: [Object],
+        emitError: true,
+        socketOptions: {},
+        clientInfo: [Object],
+        readPreference: [Object],
+        promiseLibrary: [Function: Promise],
+        bson: {} },
+     id: 1,
+     logger: { className: 'Connection' },
+     bson: {},
+     tag: undefined,
+     messageHandler: [Function],
+     maxBsonMessageSize: 67108864,
+     port: 27017,
+     host: 'localhost',
+     keepAlive: true,
+     keepAliveInitialDelay: 0,
+     noDelay: true,
+     connectionTimeout: 30000,
+     socketTimeout: 30000,
+     destroyed: false,
+     domainSocket: false,
+     singleBufferSerializtion: true,
+     serializationFunction: 'toBinUnified',
+     ca: null,
+     cert: null,
+     key: null,
+     passphrase: null,
+     ssl: false,
+     rejectUnauthorized: false,
+     checkServerIdentity: true,
+     responseOptions: 
+      { promoteLongs: true,
+        promoteValues: true,
+        promoteBuffers: false },
+     flushing: false,
+     queue: [],
+     connection: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: 'localhost',
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 8,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 781,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        _idleTimeout: 30000,
+        _idleNext: [Object],
+        _idlePrev: [Object],
+        _idleStart: 50555,
+        read: [Function],
+        _consuming: true },
+     writeStream: null,
+     hashedName: '29bafad3b32b11dc7ce934204952515ea5984b3c',
+     workItems: [],
+     buffer: null,
+     sizeOfMessage: 0,
+     bytesRead: 0,
+     stubBuffer: null },
+  message: 
+   { parsed: true,
+     index: 71,
+     raw: <Buffer 47 00 00 00 15 00 00 00 04 00 00 00 01 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 23 00 00 00 10 6f 6b 00 01 00 00 00 10 6e ... >,
+     data: <Buffer 47 00 00 00 15 00 00 00 04 00 00 00 01 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 23 00 00 00 10 6f 6b 00 01 00 00 00 10 6e ... >,
+     bson: {},
+     opts: 
+      { promoteLongs: true,
+        promoteValues: true,
+        promoteBuffers: false },
+     length: 71,
+     requestId: 21,
+     responseTo: 4,
+     responseFlags: 8,
+     cursorId: Long { _bsontype: 'Long', low_: 0, high_: 0 },
+     startingFrom: 0,
+     numberReturned: 1,
+     documents: [ [Object] ],
+     cursorNotFound: false,
+     queryFailure: false,
+     shardConfigStale: false,
+     awaitCapable: true,
+     promoteLongs: true,
+     promoteValues: true,
+     promoteBuffers: false,
+     hashedName: '29bafad3b32b11dc7ce934204952515ea5984b3c' },
+  modifiedCount: 1,
+  upsertedId: null,
+  upsertedCount: 0,
+  matchedCount: 1 }
+[2017-03-03 16:40:25.747] [DEBUG] app - result=556bcd86-d4ef-4d2b-97fb-e9fe7bbba9e9, err=null
+[2017-03-03 16:40:50.013] [INFO] app - /test/search_near?k=556bcd86-d4ef-4d2b-97fb-e9fe7bbba9e9&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 16:40:50.018] [INFO] app - /app/search/near request start
+[2017-03-03 16:42:09.828] [INFO] app - /test/search_near?k=556bcd86-d4ef-4d2b-97fb-e9fe7bbba9e9&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 16:42:09.833] [INFO] app - /app/search/near request start
+[2017-03-03 16:42:16.867] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:42:16.870] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:42:16.875] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 16:42:16.876] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:42:16.878] [INFO] app - Entering cheese testing
+[2017-03-03 16:42:16.901] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:42:16.901] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:42:16.909] [INFO] app - app.port=3000
+[2017-03-03 16:42:18.952] [INFO] app - /test/search_near?k=556bcd86-d4ef-4d2b-97fb-e9fe7bbba9e9&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 16:42:19.153] [INFO] app - /app/search/near request start
+[2017-03-03 16:42:19.171] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2017-03-03 16:46:28.517] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:46:28.520] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:46:28.525] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 16:46:28.525] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:46:28.528] [INFO] app - Entering cheese testing
+[2017-03-03 16:46:28.551] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:46:28.551] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:46:28.559] [INFO] app - app.port=3000
+[2017-03-03 16:46:32.191] [INFO] app - /test/search_near?k=556bcd86-d4ef-4d2b-97fb-e9fe7bbba9e9&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 16:46:32.403] [INFO] app - /app/search/near request start
+[2017-03-03 16:46:32.419] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2017-03-03 16:46:32.420] [DEBUG] app - NaN
+[2017-03-03 16:50:44.272] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:50:44.275] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:50:44.280] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 16:50:44.280] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:50:44.283] [INFO] app - Entering cheese testing
+[2017-03-03 16:50:44.307] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:50:44.307] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:50:44.314] [INFO] app - app.port=3000
+[2017-03-03 16:50:45.787] [INFO] app - /test/search_near?k=556bcd86-d4ef-4d2b-97fb-e9fe7bbba9e9&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 16:50:46.005] [INFO] app - /app/search/near request start
+[2017-03-03 16:50:46.022] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2017-03-03 16:50:46.038] [DEBUG] app - 2017-02-24T07:50:46.022Z
+[2017-03-03 16:52:27.647] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:52:27.650] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:52:27.655] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 16:52:27.655] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:52:27.658] [INFO] app - Entering cheese testing
+[2017-03-03 16:52:27.682] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:52:27.682] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:52:27.688] [INFO] app - app.port=3000
+[2017-03-03 16:52:29.713] [INFO] app - /test/search_near?k=556bcd86-d4ef-4d2b-97fb-e9fe7bbba9e9&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 16:52:29.914] [INFO] app - /app/search/near request start
+[2017-03-03 16:52:29.931] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2017-03-03 16:52:56.591] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:52:56.594] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:52:56.600] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 16:52:56.600] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:52:56.602] [INFO] app - Entering cheese testing
+[2017-03-03 16:52:56.626] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:52:56.626] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:52:56.632] [INFO] app - app.port=3000
+[2017-03-03 16:52:58.228] [INFO] app - /test/search_near?k=556bcd86-d4ef-4d2b-97fb-e9fe7bbba9e9&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 16:52:58.427] [INFO] app - /app/search/near request start
+[2017-03-03 16:52:58.445] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2017-03-03 16:52:58.445] [DEBUG] app - 2017-02-24T07:52:58.445Z
+[2017-03-03 16:53:38.007] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:53:38.010] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:53:38.015] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 16:53:38.015] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:53:38.018] [INFO] app - Entering cheese testing
+[2017-03-03 16:53:38.041] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:53:38.042] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:53:38.048] [INFO] app - app.port=3000
+[2017-03-03 16:53:40.002] [INFO] app - /test/search_near?k=556bcd86-d4ef-4d2b-97fb-e9fe7bbba9e9&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 16:53:40.197] [INFO] app - /app/search/near request start
+[2017-03-03 16:53:40.213] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2017-03-03 16:53:40.213] [DEBUG] app - 2017-02-24T07:53:40.213Z
+[2017-03-03 16:54:23.850] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:54:23.853] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:54:23.858] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 16:54:23.858] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:54:23.860] [INFO] app - Entering cheese testing
+[2017-03-03 16:54:23.884] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:54:23.884] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:54:23.891] [INFO] app - app.port=3000
+[2017-03-03 16:54:25.386] [INFO] app - /test/search_near?k=556bcd86-d4ef-4d2b-97fb-e9fe7bbba9e9&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 16:54:25.575] [INFO] app - /app/search/near request start
+[2017-03-03 16:54:25.591] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2017-03-03 16:54:25.592] [DEBUG] app - 2017-02-24T07:54:25.592Z
+[2017-03-03 16:55:01.603] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:55:01.606] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:55:01.611] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 16:55:01.611] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:55:01.613] [INFO] app - Entering cheese testing
+[2017-03-03 16:55:01.638] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 16:55:01.638] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 16:55:01.644] [INFO] app - app.port=3000
+[2017-03-03 16:55:03.178] [INFO] app - /test/search_near?k=556bcd86-d4ef-4d2b-97fb-e9fe7bbba9e9&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 16:55:03.382] [INFO] app - /app/search/near request start
+[2017-03-03 16:55:03.399] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2017-03-03 16:55:03.399] [DEBUG] app - 2017-02-24T07:55:03.399Z
+[2017-03-03 16:55:03.403] [DEBUG] app - accessInfoDao.checkPermission: has result!
+[2017-03-03 16:56:54.121] [INFO] app - /test/search_near?k=556bcd86-d4ef-4d2b-97fb-e9fe7bbba9e9&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 16:56:54.133] [INFO] app - /app/search/near request start
+[2017-03-03 16:56:54.144] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2017-03-03 16:56:54.144] [DEBUG] app - 2017-02-24T07:56:54.144Z
+[2017-03-03 16:56:54.147] [DEBUG] app - accessInfoDao.checkPermission: has result!
+[2017-03-03 16:57:44.858] [INFO] app - /test/search_near?k=7dd64c7f-6261-4d04-af51-7980b60390bc&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 16:57:44.863] [INFO] app - /app/search/near request start
+[2017-03-03 16:57:44.868] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2017-03-03 16:57:44.868] [DEBUG] app - 2017-02-24T07:57:44.868Z
+[2017-03-03 16:57:44.869] [DEBUG] app - accessInfoDao.checkPermission: has result!
+[2017-03-03 17:27:54.674] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:27:54.677] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:27:54.682] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 17:27:54.682] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:27:54.684] [INFO] app - Entering cheese testing
+[2017-03-03 17:27:54.709] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:27:54.709] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:27:54.717] [INFO] app - app.port=3000
+[2017-03-03 17:28:28.677] [INFO] app - /test/search_near?k=8d69fd28-30e6-4560-96f8-1d823b407f65&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 17:28:28.913] [INFO] app - /app/search/near request start
+[2017-03-03 17:28:28.930] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2017-03-03 17:28:28.930] [DEBUG] app - 2017-02-24T08:28:28.930Z
+[2017-03-03 17:28:28.934] [DEBUG] app - accessInfoDao.checkPermission: has result!914edad3-f1c5-4b74-b628-3d80ece3943b
+[2017-03-03 17:29:24.390] [INFO] app - /test/search_near?k=914edad3-f1c5-4b74-b628-3d80ece3943b&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 17:29:24.395] [INFO] app - /app/search/near request start
+[2017-03-03 17:29:24.399] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2017-03-03 17:29:24.400] [DEBUG] app - 2017-02-24T08:29:24.400Z
+[2017-03-03 17:29:24.401] [DEBUG] app - accessInfoDao.checkPermission: has result!28e2ffc8-d07c-443d-a4ee-37e785e08b34
+[2017-03-03 17:44:40.964] [INFO] app - /test/search_near?lng=140.852924&range=5&limit=10 request start
+[2017-03-03 17:44:40.969] [INFO] app - /app/search/near request start
+[2017-03-03 17:44:48.945] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:44:48.948] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:44:48.954] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 17:44:48.954] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:44:48.956] [INFO] app - Entering cheese testing
+[2017-03-03 17:44:48.983] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:44:48.983] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:44:48.992] [INFO] app - app.port=3000
+[2017-03-03 17:44:50.749] [INFO] app - /test/search_near?lng=140.852924&range=5&limit=10 request start
+[2017-03-03 17:44:51.007] [INFO] app - /app/search/near request start
+[2017-03-03 17:45:44.803] [INFO] app - /test/search_near?lng=140.852924&range=5&limit=10 request start
+[2017-03-03 17:45:44.816] [INFO] app - /app/search/near request start
+[2017-03-03 17:51:00.600] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:51:00.603] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:51:00.608] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 17:51:00.609] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:51:00.611] [INFO] app - Entering cheese testing
+[2017-03-03 17:51:00.634] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:51:00.634] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:51:00.642] [INFO] app - app.port=3000
+[2017-03-03 17:51:02.460] [INFO] app - /test/search_near?lng=140.852924&range=5&limit=10 request start
+[2017-03-03 17:51:02.460] [DEBUG] app - /test/search_near?lng=140.852924&range=5&limit=10
+[2017-03-03 17:51:02.461] [DEBUG] app - /test/search_near?lng=140.852924&range=5&limit=10
+[2017-03-03 17:51:02.461] [DEBUG] app - /test/search_near?lng=140.852924&range=5&limit=10
+[2017-03-03 17:51:02.670] [INFO] app - /app/search/near request start
+[2017-03-03 17:51:02.670] [DEBUG] app - /app/search/near
+[2017-03-03 17:51:02.670] [DEBUG] app - /app/search/near
+[2017-03-03 17:51:02.670] [DEBUG] app - /app/search/near
+[2017-03-03 17:52:30.292] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:52:30.295] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:52:30.300] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 17:52:30.300] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:52:30.302] [INFO] app - Entering cheese testing
+[2017-03-03 17:52:30.326] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:52:30.326] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:52:30.334] [INFO] app - app.port=3000
+[2017-03-03 17:52:32.307] [INFO] app - /test/search_near?lng=140.852924&range=5&limit=10 request start
+[2017-03-03 17:53:25.186] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:53:25.189] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:53:25.193] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 17:53:25.194] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:53:25.196] [INFO] app - Entering cheese testing
+[2017-03-03 17:53:25.220] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:53:25.220] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:53:25.227] [INFO] app - app.port=3000
+[2017-03-03 17:53:27.068] [INFO] app - /test/search_near?lng=140.852924&range=5&limit=10 request start
+[2017-03-03 17:53:27.267] [INFO] app - /app/search/near request start
+[2017-03-03 17:53:45.158] [INFO] app - /test/search_near?k=8d69fd28-30e6-4560-96f8-1d823b407f65&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 17:53:45.163] [INFO] app - /app/search/near request start
+[2017-03-03 17:53:45.181] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2017-03-03 17:54:28.018] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:54:28.021] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:54:28.026] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 17:54:28.026] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:54:28.029] [INFO] app - Entering cheese testing
+[2017-03-03 17:54:28.053] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:54:28.053] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:54:28.061] [INFO] app - app.port=3000
+[2017-03-03 17:54:36.774] [INFO] app - /test/search_near?k=8d69fd28-30e6-4560-96f8-1d823b407f65&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 17:54:36.992] [INFO] app - /app/search/near request start
+[2017-03-03 17:54:37.012] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2017-03-03 17:54:37.054] [ERROR] app - hospitalDao.getListNear query error. { MongoError: Can't canonicalize query: BadValue bad sort specification
+    at Function.MongoError.create (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\mongodb-core\lib\error.js:31:11)
+    at queryCallback (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\mongodb-core\lib\cursor.js:197:34)
+    at C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\mongodb-core\lib\connection\pool.js:455:18
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+  name: 'MongoError',
+  message: 'Can\'t canonicalize query: BadValue bad sort specification',
+  '$err': 'Can\'t canonicalize query: BadValue bad sort specification',
+  code: 17287 }
+[2017-03-03 17:54:37.086] [DEBUG] app - result=null, err=MongoError: Can't canonicalize query: BadValue bad sort specification
+[2017-03-03 17:55:59.134] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:55:59.137] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:55:59.142] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 17:55:59.142] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:55:59.144] [INFO] app - Entering cheese testing
+[2017-03-03 17:55:59.168] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:55:59.168] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:55:59.174] [INFO] app - app.port=3000
+[2017-03-03 17:56:00.865] [INFO] app - /test/search_near?k=8d69fd28-30e6-4560-96f8-1d823b407f65&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 17:56:01.066] [INFO] app - /app/search/near request start
+[2017-03-03 17:56:01.084] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2017-03-03 17:56:01.247] [DEBUG] app - result=null, err=null
+[2017-03-03 17:59:57.311] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:59:57.313] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:59:57.319] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 17:59:57.319] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:59:57.321] [INFO] app - Entering cheese testing
+[2017-03-03 17:59:57.346] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 17:59:57.346] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 17:59:57.353] [INFO] app - app.port=3000
+[2017-03-03 17:59:59.329] [INFO] app - /test/search_near?k=8d69fd28-30e6-4560-96f8-1d823b407f65&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 17:59:59.539] [INFO] app - /app/search/near request start
+[2017-03-03 17:59:59.561] [DEBUG] app - hospitalDao.getListNear: minLat=38.268177,minLng=140.847174,range=5
+[2017-03-03 17:59:59.781] [DEBUG] app - result=null, err=null
+[2017-03-03 18:00:41.875] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 18:00:41.879] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 18:00:41.884] [INFO] app - ./mongo/hospitalAction be loading
+[2017-03-03 18:00:41.884] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 18:00:41.887] [INFO] app - Entering cheese testing
+[2017-03-03 18:00:41.913] [INFO] app - ./mongo/customerDao be loading
+[2017-03-03 18:00:41.913] [INFO] app - ./mongo/accessInfoDao be loading
+[2017-03-03 18:00:41.919] [INFO] app - app.port=3000
+[2017-03-03 18:00:43.638] [INFO] app - /test/search_near?k=8d69fd28-30e6-4560-96f8-1d823b407f65&lat=38.272477&lng=140.852924&range=5&limit=10 request start
+[2017-03-03 18:00:43.842] [INFO] app - /app/search/near request start
+[2017-03-03 18:00:43.862] [DEBUG] app - hospitalDao.getListNear: minLat=38.268177,minLng=140.847174,range=5
+[2017-03-03 18:00:44.093] [DEBUG] app - result=null, err=null

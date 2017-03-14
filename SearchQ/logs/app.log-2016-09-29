@@ -1,0 +1,1084 @@
+[2016-09-29 14:32:16.220] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:16.236] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:16.244] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:16.263] [DEBUG] app - result=55ef9d32-4935-42ef-8a56-c3a26a79a22d, err=null
+[2016-09-29 14:32:21.377] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:21.393] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:21.393] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:21.393] [DEBUG] app - result=ac2a0d00-facf-4b1c-8743-239085c50f76, err=null
+[2016-09-29 14:32:21.644] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:21.644] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:21.644] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:21.644] [DEBUG] app - result=e513f7c5-ed95-4804-ae3e-bca2d848526e, err=null
+[2016-09-29 14:32:21.839] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:21.842] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:21.842] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:21.842] [DEBUG] app - result=d88d8391-fd3b-41e7-a67a-a42e8915d555, err=null
+[2016-09-29 14:32:21.998] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:21.998] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:21.998] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:21.998] [DEBUG] app - result=c4a4f35d-4cb2-43b3-840b-2317e8a61b0a, err=null
+[2016-09-29 14:32:22.158] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:22.158] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:22.158] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:22.158] [DEBUG] app - result=de4c0845-d1af-489e-8817-c3787b01c589, err=null
+[2016-09-29 14:32:22.321] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:22.338] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:22.339] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:22.340] [DEBUG] app - result=c3cb7200-c6f2-41b7-80a9-b445c902a03a, err=null
+[2016-09-29 14:32:22.483] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:22.488] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:22.488] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:22.488] [DEBUG] app - result=d5deda0b-47b5-4ce5-986b-23aed65dea57, err=null
+[2016-09-29 14:32:22.643] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:22.643] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:22.643] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:22.643] [DEBUG] app - result=8ac0a45b-86ce-4314-b4d8-33b52c3ac3d7, err=null
+[2016-09-29 14:32:22.804] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:22.804] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:22.804] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:22.804] [DEBUG] app - result=6b7619b7-e19f-405b-a1ae-9ea7c4ed78a5, err=null
+[2016-09-29 14:32:22.967] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:22.969] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:22.970] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:22.971] [DEBUG] app - result=37134eea-b63d-4320-9b70-0b76d536ff4a, err=null
+[2016-09-29 14:32:23.120] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:23.120] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:23.120] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:23.120] [DEBUG] app - result=49595266-48f2-4d3d-b0f6-391950cdde9e, err=null
+[2016-09-29 14:32:23.289] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:23.289] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:23.289] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:23.289] [DEBUG] app - result=3ba79a4d-3269-4f5b-80e6-71baf6029fb3, err=null
+[2016-09-29 14:32:23.443] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:23.443] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:23.443] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:23.443] [DEBUG] app - result=8943dbed-6be2-4c7e-bb80-afe368b71191, err=null
+[2016-09-29 14:32:23.605] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:23.609] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:23.609] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:23.609] [DEBUG] app - result=056a1999-0916-428a-bbcb-6ca92280c6f0, err=null
+[2016-09-29 14:32:23.773] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:23.773] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:23.773] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:23.773] [DEBUG] app - result=3fe6ebad-388f-44a4-b37e-b4504251bffb, err=null
+[2016-09-29 14:32:23.958] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:23.958] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:23.958] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:23.958] [DEBUG] app - result=77c71671-9473-4517-815e-025199b6eb49, err=null
+[2016-09-29 14:32:24.158] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:24.158] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:24.158] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:24.158] [DEBUG] app - result=d3f91b24-8e01-4c13-a5f6-aa1d1d42430c, err=null
+[2016-09-29 14:32:24.423] [INFO] app - /test/addCustomer request start
+[2016-09-29 14:32:24.425] [INFO] app - /app/user_register/register request start
+[2016-09-29 14:32:24.426] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 14:32:24.432] [DEBUG] app - result=5b1e799a-3554-4643-b1a4-b59e7711216a, err=null
+[2016-09-29 14:32:39.650] [INFO] app - /test/confirmCustomer?k=55ef9d32-4935-42ef-8a56-c3a26a79a22d&p=password request start
+[2016-09-29 14:32:39.650] [DEBUG] app - k=55ef9d32-4935-42ef-8a56-c3a26a79a22d
+[2016-09-29 14:32:39.653] [INFO] app - /app/user_register/confirm request start
+[2016-09-29 14:32:39.654] [DEBUG] app - customerDao.confirmOne:55ef9d32-4935-42ef-8a56-c3a26a79a22d
+[2016-09-29 14:32:39.657] [DEBUG] app - { command: 'UPDATE',
+  rowCount: 1,
+  oid: NaN,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-29 14:32:39.773] [DEBUG] app - { command: 'INSERT',
+  rowCount: 1,
+  oid: 0,
+  rows: [],
+  fields: [],
+  _parsers: [],
+  RowCtor: null,
+  rowAsArray: false,
+  _getTypeParser: [Function: bound ] }
+[2016-09-29 14:32:39.773] [DEBUG] app - result=ec416607-3f8f-4b0f-a97a-4a4680d00df3, err=null
+[2016-09-29 14:33:04.759] [INFO] app - /test/search_near?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20 request start
+[2016-09-29 14:33:04.771] [INFO] app - /app/search/near request start
+[2016-09-29 14:33:04.771] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 14:33:04.771] [INFO] app - auth ok
+[2016-09-29 14:33:04.771] [DEBUG] app - hospitalDao.getListNear: minLat=38268177,minLng=140847174,range=5
+[2016-09-29 14:33:04.771] [DEBUG] app - result=null, err=null
+[2016-09-29 14:33:16.405] [INFO] app - /test/search_name?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&limit=20 request start
+[2016-09-29 14:33:16.418] [INFO] app - /app/search/name request start
+[2016-09-29 14:33:16.418] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 14:33:16.418] [INFO] app - auth ok
+[2016-09-29 14:33:16.418] [DEBUG] app - hospitalDao.getListByName: name=内科医院
+[2016-09-29 14:33:16.418] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 15:36:46.801] [INFO] app - / request start
+[2016-09-29 15:37:16.742] [INFO] app - /test/addCustomer request start
+[2016-09-29 15:37:16.755] [INFO] app - /app/user_register/register request start
+[2016-09-29 15:37:16.777] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 15:37:16.786] [DEBUG] app - result=1be2bb2d-fc97-425f-83d6-e2acf382ffb8, err=null
+[2016-09-29 15:37:26.262] [INFO] app - /test/addCustomer request start
+[2016-09-29 15:37:26.264] [INFO] app - /app/user_register/register request start
+[2016-09-29 15:37:26.265] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 15:37:26.267] [DEBUG] app - result=89559920-b6a0-400d-a3b2-ae568fef5bff, err=null
+[2016-09-29 15:37:28.486] [INFO] app - /test/addCustomer request start
+[2016-09-29 15:37:28.490] [INFO] app - /app/user_register/register request start
+[2016-09-29 15:37:28.490] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 15:37:28.490] [DEBUG] app - result=b9485df3-7fbe-415e-98ed-15b502fdb05f, err=null
+[2016-09-29 15:37:36.679] [INFO] app - /test/addCustomer request start
+[2016-09-29 15:37:36.694] [INFO] app - /app/user_register/register request start
+[2016-09-29 15:37:36.694] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-29 15:37:36.694] [DEBUG] app - result=57086063-8859-4afd-ab12-8f2add62ed9c, err=null
+[2016-09-29 16:24:22.758] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:24:22.758] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:24:22.758] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 16:24:22.758] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:24:22.758] [INFO] app - Entering cheese testing
+[2016-09-29 16:24:22.795] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:24:22.795] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:24:22.801] [INFO] app - app.port=3000
+[2016-09-29 16:25:19.103] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82&limit=20 request start
+[2016-09-29 16:25:19.380] [INFO] app - /app/search/mix request start
+[2016-09-29 16:25:19.403] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:25:19.423] [INFO] app - auth ok
+[2016-09-29 16:25:19.425] [DEBUG] app - hospitalDao.getListByMix: address=undefined
+[2016-09-29 16:25:19.425] [DEBUG] app - cond=l.lat>=$1 AND l.lat<=$2 AND  AND l.lng>=$3  AND l.lng<=$4 AND  AND  LIMIT $5
+[2016-09-29 16:25:19.425] [DEBUG] app - val=38268177,38276777,140847174,140858674,
+[2016-09-29 16:25:19.427] [ERROR] app - hospitalDao.getListByMix query error. { error: "AND"またはその近辺で構文エラー
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 120,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '109',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\parser\\scan.l',
+  line: '1044',
+  routine: 'scanner_yyerror' }
+[2016-09-29 16:25:19.440] [DEBUG] app - result=null, err=4001
+[2016-09-29 16:27:19.260] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82&limit=20 request start
+[2016-09-29 16:27:19.268] [INFO] app - /app/search/mix request start
+[2016-09-29 16:27:19.288] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:27:19.304] [INFO] app - auth ok
+[2016-09-29 16:27:19.305] [DEBUG] app - hospitalDao.getListByMix: address=undefined
+[2016-09-29 16:27:19.305] [DEBUG] app - cond=l.lat>=$1 AND l.lat<=$2 AND  AND l.lng>=$3  AND l.lng<=$4 AND  AND  LIMIT $5
+[2016-09-29 16:27:19.305] [DEBUG] app - val=38268177,38276777,140847174,140858674,
+[2016-09-29 16:27:19.307] [ERROR] app - hospitalDao.getListByMix query error. { error: "AND"またはその近辺で構文エラー
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 120,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '109',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\parser\\scan.l',
+  line: '1044',
+  routine: 'scanner_yyerror' }
+[2016-09-29 16:27:19.308] [DEBUG] app - result=null, err=4001
+[2016-09-29 16:27:22.781] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82&limit=20 request start
+[2016-09-29 16:27:22.784] [INFO] app - /app/search/mix request start
+[2016-09-29 16:27:22.784] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:27:22.786] [INFO] app - auth ok
+[2016-09-29 16:27:22.786] [DEBUG] app - hospitalDao.getListByMix: address=undefined
+[2016-09-29 16:27:22.787] [DEBUG] app - cond=l.lat>=$1 AND l.lat<=$2 AND  AND l.lng>=$3  AND l.lng<=$4 AND  AND  LIMIT $5
+[2016-09-29 16:27:22.787] [DEBUG] app - val=38268177,38276777,140847174,140858674,
+[2016-09-29 16:27:22.788] [ERROR] app - hospitalDao.getListByMix query error. { error: "AND"またはその近辺で構文エラー
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 120,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '109',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\parser\\scan.l',
+  line: '1044',
+  routine: 'scanner_yyerror' }
+[2016-09-29 16:27:22.790] [DEBUG] app - result=null, err=4001
+[2016-09-29 16:29:58.976] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:29:58.979] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:29:58.983] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 16:29:58.983] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:29:58.986] [INFO] app - Entering cheese testing
+[2016-09-29 16:29:59.006] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:29:59.006] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:29:59.006] [INFO] app - app.port=3000
+[2016-09-29 16:30:01.361] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82&limit=20 request start
+[2016-09-29 16:30:01.583] [INFO] app - /app/search/mix request start
+[2016-09-29 16:30:01.604] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:30:01.618] [INFO] app - auth ok
+[2016-09-29 16:30:01.619] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 16:30:01.619] [DEBUG] app - cond=l.lat>=$1 AND l.lat<=$2 AND  AND l.lng>=$3  AND l.lng<=$4 AND  AND name like $5 AND  AND address like $7
+[2016-09-29 16:30:01.619] [DEBUG] app - val=38268177,38276777,140847174,140858674,%内科医院%,,%市%,,
+[2016-09-29 16:30:01.622] [ERROR] app - hospitalDao.getListByMix query error. { error: "AND"またはその近辺で構文エラー
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 120,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '109',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\parser\\scan.l',
+  line: '1044',
+  routine: 'scanner_yyerror' }
+[2016-09-29 16:30:01.636] [DEBUG] app - result=null, err=4001
+[2016-09-29 16:32:06.494] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:32:06.498] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:32:06.502] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 16:32:06.502] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:32:06.505] [INFO] app - Entering cheese testing
+[2016-09-29 16:32:06.515] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:32:06.515] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:32:06.531] [INFO] app - app.port=3000
+[2016-09-29 16:32:08.280] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82&limit=20 request start
+[2016-09-29 16:32:08.501] [INFO] app - /app/search/mix request start
+[2016-09-29 16:32:08.516] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:32:08.532] [INFO] app - auth ok
+[2016-09-29 16:32:08.532] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 16:32:08.532] [DEBUG] app - cond=l.lat>=$1 AND l.lat<=$2ANDANDl.lng>=$3  AND l.lng<=$4ANDANDname like $5ANDaddress like $6
+[2016-09-29 16:32:08.532] [DEBUG] app - val=38268177,38276777,140847174,140858674,%内科医院%,%市%,
+[2016-09-29 16:32:08.532] [ERROR] app - hospitalDao.getListByMix query error. { error: "ANDANDl"またはその近辺で構文エラー
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 124,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '103',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\parser\\scan.l',
+  line: '1044',
+  routine: 'scanner_yyerror' }
+[2016-09-29 16:32:08.547] [DEBUG] app - result=null, err=4001
+[2016-09-29 16:33:56.218] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:33:56.218] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:33:56.218] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 16:33:56.233] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:33:56.233] [INFO] app - Entering cheese testing
+[2016-09-29 16:33:56.249] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:33:56.249] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:33:56.265] [INFO] app - app.port=3000
+[2016-09-29 16:33:58.664] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82&limit=20 request start
+[2016-09-29 16:33:58.880] [INFO] app - /app/search/mix request start
+[2016-09-29 16:33:58.891] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:33:58.907] [INFO] app - auth ok
+[2016-09-29 16:33:58.922] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 16:33:58.922] [DEBUG] app - cond=l.lat>=$1 AND l.lat<=$2TTl.lng>=$3  AND l.lng<=$4TTname like $5Taddress like $6
+[2016-09-29 16:33:58.922] [DEBUG] app - val=38268177,38276777,140847174,140858674,%内科医院%,%市%,
+[2016-09-29 16:33:58.922] [ERROR] app - hospitalDao.getListByMix query error. { error: "ANDANDl"またはその近辺で構文エラー
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 124,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '103',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\parser\\scan.l',
+  line: '1044',
+  routine: 'scanner_yyerror' }
+[2016-09-29 16:33:58.938] [DEBUG] app - result=null, err=4001
+[2016-09-29 16:36:03.868] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:36:03.871] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:36:03.874] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 16:36:03.875] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:36:03.877] [INFO] app - Entering cheese testing
+[2016-09-29 16:36:03.904] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:36:03.905] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:36:03.912] [INFO] app - app.port=3000
+[2016-09-29 16:36:05.495] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82&limit=20 request start
+[2016-09-29 16:36:05.726] [INFO] app - /app/search/mix request start
+[2016-09-29 16:36:05.748] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:36:05.793] [INFO] app - auth ok
+[2016-09-29 16:36:05.794] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 16:36:05.795] [DEBUG] app - cond= l.lat>=$1 AND l.lat<=$2TT l.lng>=$3  AND l.lng<=$4TT name like $5T address like $6
+[2016-09-29 16:36:05.795] [DEBUG] app - val=38268177,38276777,140847174,140858674,%内科医院%,%市%,
+[2016-09-29 16:36:05.797] [ERROR] app - hospitalDao.getListByMix query error. { error: "ANDAND"またはその近辺で構文エラー
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 123,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '104',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\parser\\scan.l',
+  line: '1044',
+  routine: 'scanner_yyerror' }
+[2016-09-29 16:36:05.825] [DEBUG] app - result=null, err=4001
+[2016-09-29 16:37:03.549] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:37:03.552] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:37:03.555] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 16:37:03.555] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:37:03.559] [INFO] app - Entering cheese testing
+[2016-09-29 16:37:03.581] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:37:03.581] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:37:03.587] [INFO] app - app.port=3000
+[2016-09-29 16:37:05.927] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82&limit=20 request start
+[2016-09-29 16:37:06.147] [INFO] app - /app/search/mix request start
+[2016-09-29 16:37:06.169] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:37:06.175] [INFO] app - auth ok
+[2016-09-29 16:37:06.176] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 16:37:06.176] [DEBUG] app - cond= l.lat>=$1 AND l.lat<=$2,, l.lng>=$3  AND l.lng<=$4,, name like $5, address like $6
+[2016-09-29 16:37:06.176] [DEBUG] app - val=38268177,38276777,140847174,140858674,%内科医院%,%市%,
+[2016-09-29 16:37:06.178] [ERROR] app - hospitalDao.getListByMix query error. { error: "ANDAND"またはその近辺で構文エラー
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 123,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '104',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\parser\\scan.l',
+  line: '1044',
+  routine: 'scanner_yyerror' }
+[2016-09-29 16:37:06.194] [DEBUG] app - result=null, err=4001
+[2016-09-29 16:37:47.871] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:37:47.874] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:37:47.877] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 16:37:47.877] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:37:47.880] [INFO] app - Entering cheese testing
+[2016-09-29 16:37:47.903] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:37:47.903] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:37:47.909] [INFO] app - app.port=3000
+[2016-09-29 16:37:50.253] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82&limit=20 request start
+[2016-09-29 16:37:50.467] [INFO] app - /app/search/mix request start
+[2016-09-29 16:37:50.487] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:37:50.493] [INFO] app - auth ok
+[2016-09-29 16:37:50.494] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 16:37:50.494] [DEBUG] app - cond= l.lat>=$1 AND l.lat<=$2,, l.lng>=$3  AND l.lng<=$4,, name like $5, address like $6
+[2016-09-29 16:37:50.494] [DEBUG] app - val=38268177,38276777,140847174,140858674,%内科医院%,%市%,
+[2016-09-29 16:37:50.496] [ERROR] app - hospitalDao.getListByMix query error. { error: "ANDAND"またはその近辺で構文エラー
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 123,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '104',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\parser\\scan.l',
+  line: '1044',
+  routine: 'scanner_yyerror' }
+[2016-09-29 16:37:50.511] [DEBUG] app - result=null, err=4001
+[2016-09-29 16:40:05.008] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:40:05.011] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:40:05.015] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 16:40:05.015] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:40:05.018] [INFO] app - Entering cheese testing
+[2016-09-29 16:40:05.042] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:40:05.042] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:40:05.048] [INFO] app - app.port=3000
+[2016-09-29 16:40:07.189] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82&limit=20 request start
+[2016-09-29 16:40:07.413] [INFO] app - /app/search/mix request start
+[2016-09-29 16:40:07.434] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:40:07.456] [INFO] app - auth ok
+[2016-09-29 16:40:07.457] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 16:40:07.457] [DEBUG] app - cond= l.lat>=$1 AND  l.lat<=$2 AND  l.lng>=$3 AND  l.lng<=$4 AND  name like $5 AND  address like $6
+[2016-09-29 16:40:07.457] [DEBUG] app - val=38268177,38276777,140847174,140858674,%内科医院%,%市%,
+[2016-09-29 16:40:07.459] [ERROR] app - hospitalDao.getListByMix query error. { error: "ORDER"またはその近辺で構文エラー
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 122,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '174',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\parser\\scan.l',
+  line: '1044',
+  routine: 'scanner_yyerror' }
+[2016-09-29 16:40:07.473] [DEBUG] app - result=null, err=4001
+[2016-09-29 16:41:05.842] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:41:05.845] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:41:05.850] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 16:41:05.851] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:41:05.854] [INFO] app - Entering cheese testing
+[2016-09-29 16:41:05.879] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:41:05.879] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:41:05.885] [INFO] app - app.port=3000
+[2016-09-29 16:41:07.852] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82&limit=20 request start
+[2016-09-29 16:41:08.072] [INFO] app - /app/search/mix request start
+[2016-09-29 16:41:08.093] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:41:08.099] [INFO] app - auth ok
+[2016-09-29 16:41:08.100] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 16:41:08.100] [DEBUG] app - cond= l.lat>=$1 AND  l.lat<=$2 AND  l.lng>=$3 AND  l.lng<=$4 AND  name like $5 AND  address like $6
+[2016-09-29 16:41:08.100] [DEBUG] app - val=38268177,38276777,140847174,140858674,%内科医院%,%市%,
+[2016-09-29 16:41:08.104] [DEBUG] app - result=null, err=null
+[2016-09-29 16:41:48.312] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 16:41:48.318] [INFO] app - /app/search/mix request start
+[2016-09-29 16:41:48.340] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:41:48.380] [INFO] app - auth ok
+[2016-09-29 16:41:48.381] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 16:41:48.381] [DEBUG] app - cond= name like $1 AND  address like $2
+[2016-09-29 16:41:48.381] [DEBUG] app - val=%内科医院%,%市%,20
+[2016-09-29 16:41:48.387] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 16:42:21.072] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%%E5%B8%82 request start
+[2016-09-29 16:42:21.077] [INFO] app - /app/search/mix request start
+[2016-09-29 16:42:21.095] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:42:21.099] [INFO] app - auth ok
+[2016-09-29 16:42:21.099] [DEBUG] app - hospitalDao.getListByMix: address=%%E5%B8%82
+[2016-09-29 16:42:21.099] [DEBUG] app - cond= name like $1 AND  address like $2
+[2016-09-29 16:42:21.100] [DEBUG] app - val=%内科医院%,%%%E5%B8%82%,20
+[2016-09-29 16:42:21.105] [DEBUG] app - result=null, err=null
+[2016-09-29 16:42:45.269] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=--%E5%B8%82 request start
+[2016-09-29 16:42:45.272] [INFO] app - /app/search/mix request start
+[2016-09-29 16:42:45.273] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:42:45.275] [INFO] app - auth ok
+[2016-09-29 16:42:45.275] [DEBUG] app - hospitalDao.getListByMix: address=--市
+[2016-09-29 16:42:45.275] [DEBUG] app - cond= name like $1 AND  address like $2
+[2016-09-29 16:42:45.275] [DEBUG] app - val=%内科医院%,%--市%,20
+[2016-09-29 16:42:45.277] [DEBUG] app - result=null, err=null
+[2016-09-29 16:43:27.733] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E9%9D%92'-- request start
+[2016-09-29 16:43:27.735] [INFO] app - /app/search/mix request start
+[2016-09-29 16:43:27.752] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:43:27.756] [INFO] app - auth ok
+[2016-09-29 16:43:27.756] [DEBUG] app - hospitalDao.getListByMix: address=青'--
+[2016-09-29 16:43:27.756] [DEBUG] app - cond= name like $1 AND  address like $2
+[2016-09-29 16:43:27.757] [DEBUG] app - val=%内科医院%,%青'--%,20
+[2016-09-29 16:43:27.759] [DEBUG] app - result=null, err=null
+[2016-09-29 16:57:28.632] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:57:28.636] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:57:28.640] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 16:57:28.640] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:57:28.643] [INFO] app - Entering cheese testing
+[2016-09-29 16:57:28.667] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 16:57:28.668] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 16:57:28.674] [INFO] app - app.port=3000
+[2016-09-29 16:57:47.945] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 16:57:48.159] [INFO] app - /app/search/mix request start
+[2016-09-29 16:57:48.179] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 16:57:48.197] [INFO] app - auth ok
+[2016-09-29 16:57:48.198] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 16:57:48.199] [DEBUG] app - cond= name like $1 AND  address like $2
+[2016-09-29 16:57:48.199] [DEBUG] app - val=%内科医院%,%市%,20
+[2016-09-29 16:57:48.206] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 17:01:06.783] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:01:06.799] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:01:06.799] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:01:06.799] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:01:06.799] [INFO] app - Entering cheese testing
+[2016-09-29 17:01:06.830] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:01:06.830] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:01:06.830] [INFO] app - app.port=3000
+[2016-09-29 17:01:09.194] [INFO] app - /test/search_name?k=c84b8eb8-f287-4f04-b53f-b26790b2d0f4&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&limit=20 request start
+[2016-09-29 17:01:09.445] [INFO] app - /app/search/name request start
+[2016-09-29 17:01:09.461] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:01:41.652] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:01:41.657] [INFO] app - /app/search/mix request start
+[2016-09-29 17:01:41.679] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:01:41.691] [INFO] app - auth ok
+[2016-09-29 17:01:41.691] [DEBUG] app - dept=undefined
+[2016-09-29 17:01:41.692] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:01:41.692] [DEBUG] app - cond= name like $1 AND  address like $2
+[2016-09-29 17:01:41.692] [DEBUG] app - val=%内科医院%,%市%,20
+[2016-09-29 17:01:41.694] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 17:09:52.681] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:09:52.681] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:09:52.681] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:09:52.681] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:09:52.697] [INFO] app - Entering cheese testing
+[2016-09-29 17:09:52.723] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:09:52.723] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:09:52.730] [INFO] app - app.port=3000
+[2016-09-29 17:09:56.686] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:09:56.901] [INFO] app - /app/search/mix request start
+[2016-09-29 17:09:56.917] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:09:56.933] [INFO] app - auth ok
+[2016-09-29 17:09:56.933] [DEBUG] app - dept=undefined
+[2016-09-29 17:09:56.933] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:09:56.933] [DEBUG] app - cond= name like $1 AND  address like $2
+[2016-09-29 17:09:56.933] [DEBUG] app - val=%内科医院%,%市%,20
+[2016-09-29 17:09:56.948] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 17:12:12.209] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:12:12.224] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:12:12.224] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:12:12.224] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:12:12.224] [INFO] app - Entering cheese testing
+[2016-09-29 17:12:12.240] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:12:12.240] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:12:12.256] [INFO] app - app.port=3000
+[2016-09-29 17:12:14.668] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:12:14.902] [INFO] app - /app/search/mix request start
+[2016-09-29 17:12:14.910] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:12:14.926] [INFO] app - auth ok
+[2016-09-29 17:12:14.926] [DEBUG] app - dept=   
+[2016-09-29 17:12:14.926] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:12:14.926] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3))
+[2016-09-29 17:12:14.926] [DEBUG] app - val=%内科医院%,%市%,   ,20
+[2016-09-29 17:12:14.941] [ERROR] app - hospitalDao.getListByMix query error. { error: 符号化方式"UTF8"で無効なバイトシーケンスです: 0x00
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 151,
+  severity: 'ERROR',
+  code: '22021',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\utils\\mb\\wchar.c',
+  line: '2020',
+  routine: 'report_invalid_encoding' }
+[2016-09-29 17:12:14.957] [DEBUG] app - result=null, err=4001
+[2016-09-29 17:13:43.105] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:13:43.121] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:13:43.121] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:13:43.121] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:13:43.121] [INFO] app - Entering cheese testing
+[2016-09-29 17:13:43.152] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:13:43.152] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:13:43.152] [INFO] app - app.port=3000
+[2016-09-29 17:13:45.662] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:13:45.877] [INFO] app - /app/search/mix request start
+[2016-09-29 17:13:45.908] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:13:45.924] [INFO] app - auth ok
+[2016-09-29 17:13:45.924] [DEBUG] app - dept=undefined
+[2016-09-29 17:13:45.924] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:13:45.924] [DEBUG] app - cond= name like $1 AND  address like $2
+[2016-09-29 17:13:45.924] [DEBUG] app - val=%内科医院%,%市%,20
+[2016-09-29 17:13:45.924] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 17:14:32.881] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:14:32.897] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:14:32.897] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:14:32.897] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:14:32.897] [INFO] app - Entering cheese testing
+[2016-09-29 17:14:32.928] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:14:32.928] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:14:32.928] [INFO] app - app.port=3000
+[2016-09-29 17:14:36.064] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:14:36.283] [INFO] app - /app/search/mix request start
+[2016-09-29 17:14:36.314] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:14:36.314] [INFO] app - auth ok
+[2016-09-29 17:14:36.314] [DEBUG] app - dept=A03
+[2016-09-29 17:14:36.314] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:14:36.314] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3))
+[2016-09-29 17:14:36.314] [DEBUG] app - val=%内科医院%,%市%,A03,20
+[2016-09-29 17:14:36.314] [DEBUG] app - result=null, err=null
+[2016-09-29 17:17:13.972] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:17:13.972] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:17:13.972] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:17:13.972] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:17:13.972] [INFO] app - Entering cheese testing
+[2016-09-29 17:17:14.003] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:17:14.003] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:17:14.003] [INFO] app - app.port=3000
+[2016-09-29 17:17:16.026] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:17:16.256] [INFO] app - /app/search/mix request start
+[2016-09-29 17:17:16.272] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:17:16.288] [INFO] app - auth ok
+[2016-09-29 17:17:16.288] [DEBUG] app - dept=undefined
+[2016-09-29 17:17:16.288] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:17:16.288] [DEBUG] app - cond= name like $1 AND  address like $2
+[2016-09-29 17:17:16.288] [DEBUG] app - val=%内科医院%,%市%,20
+[2016-09-29 17:17:16.288] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 17:21:30.715] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:21:30.715] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:21:30.715] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:21:30.715] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:21:30.715] [INFO] app - Entering cheese testing
+[2016-09-29 17:21:30.746] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:21:30.746] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:21:30.762] [INFO] app - app.port=3000
+[2016-09-29 17:21:32.948] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:21:33.185] [INFO] app - /app/search/mix request start
+[2016-09-29 17:21:33.201] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:21:33.216] [INFO] app - auth ok
+[2016-09-29 17:22:51.972] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:22:51.987] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:22:51.987] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:22:51.987] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:22:51.987] [INFO] app - Entering cheese testing
+[2016-09-29 17:22:52.019] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:22:52.019] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:22:52.019] [INFO] app - app.port=3000
+[2016-09-29 17:22:54.318] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:22:54.552] [INFO] app - /app/search/mix request start
+[2016-09-29 17:22:54.568] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:22:54.584] [INFO] app - auth ok
+[2016-09-29 17:22:54.599] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:22:54.599] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3))
+[2016-09-29 17:22:54.599] [DEBUG] app - val=%内科医院%,%市%,A01,A02,20
+[2016-09-29 17:22:54.599] [DEBUG] app - result=null, err=null
+[2016-09-29 17:23:37.783] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:23:37.783] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:23:37.798] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:23:37.798] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:23:37.798] [INFO] app - Entering cheese testing
+[2016-09-29 17:23:37.814] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:23:37.814] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:23:37.830] [INFO] app - app.port=3000
+[2016-09-29 17:23:40.703] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:23:40.913] [INFO] app - /app/search/mix request start
+[2016-09-29 17:23:40.944] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:23:40.944] [INFO] app - auth ok
+[2016-09-29 17:23:40.944] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:23:40.944] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3))
+[2016-09-29 17:23:40.944] [DEBUG] app - val=%内科医院%,%市%,A01,A02,A03,A04,A05,A06,20
+[2016-09-29 17:23:40.944] [DEBUG] app - result=null, err=null
+[2016-09-29 17:23:58.456] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:23:58.456] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:23:58.471] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:23:58.471] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:23:58.471] [INFO] app - Entering cheese testing
+[2016-09-29 17:23:58.487] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:23:58.487] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:23:58.503] [INFO] app - app.port=3000
+[2016-09-29 17:24:00.273] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:24:00.499] [INFO] app - /app/search/mix request start
+[2016-09-29 17:24:00.514] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:24:00.530] [INFO] app - auth ok
+[2016-09-29 17:24:00.530] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:24:00.530] [DEBUG] app - cond= name like $1 AND  address like $2
+[2016-09-29 17:24:00.530] [DEBUG] app - val=%内科医院%,%市%,20
+[2016-09-29 17:24:00.530] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 17:24:36.638] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:24:36.644] [INFO] app - /app/search/mix request start
+[2016-09-29 17:24:36.663] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:24:36.667] [INFO] app - auth ok
+[2016-09-29 17:24:36.668] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:24:36.668] [DEBUG] app - cond= name like $1 AND  address like $2
+[2016-09-29 17:24:36.668] [DEBUG] app - val=%内科医院%,%市%,20
+[2016-09-29 17:24:36.672] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 17:25:30.976] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:25:30.991] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:25:30.991] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:25:30.991] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:25:30.991] [INFO] app - Entering cheese testing
+[2016-09-29 17:25:31.023] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:25:31.023] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:25:31.023] [INFO] app - app.port=3000
+[2016-09-29 17:25:36.381] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:25:36.594] [INFO] app - /app/search/mix request start
+[2016-09-29 17:25:36.625] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:25:36.625] [INFO] app - auth ok
+[2016-09-29 17:25:36.625] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:25:36.625] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3))
+[2016-09-29 17:25:36.625] [DEBUG] app - val=%内科医院%,%市%,A01,20
+[2016-09-29 17:25:36.641] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 17:25:38.171] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:25:38.186] [INFO] app - /app/search/mix request start
+[2016-09-29 17:25:38.186] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:25:38.186] [INFO] app - auth ok
+[2016-09-29 17:25:38.186] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:25:38.186] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3))
+[2016-09-29 17:25:38.186] [DEBUG] app - val=%内科医院%,%市%,A01,20
+[2016-09-29 17:25:38.186] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 17:25:52.376] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:25:52.376] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:25:52.376] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:25:52.376] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:25:52.376] [INFO] app - Entering cheese testing
+[2016-09-29 17:25:52.407] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:25:52.407] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:25:52.407] [INFO] app - app.port=3000
+[2016-09-29 17:25:54.351] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:25:54.561] [INFO] app - /app/search/mix request start
+[2016-09-29 17:25:54.608] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:25:54.608] [INFO] app - auth ok
+[2016-09-29 17:25:54.608] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:25:54.608] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3))
+[2016-09-29 17:25:54.608] [DEBUG] app - val=%内科医院%,%市%,A01,A02,20
+[2016-09-29 17:25:54.624] [DEBUG] app - result=null, err=null
+[2016-09-29 17:26:14.650] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:26:14.650] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:26:14.650] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:26:14.650] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:26:14.650] [INFO] app - Entering cheese testing
+[2016-09-29 17:26:14.681] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:26:14.681] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:26:14.681] [INFO] app - app.port=3000
+[2016-09-29 17:26:17.906] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:26:18.111] [INFO] app - /app/search/mix request start
+[2016-09-29 17:26:18.142] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:26:18.142] [INFO] app - auth ok
+[2016-09-29 17:26:18.142] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:26:18.142] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3))
+[2016-09-29 17:26:18.142] [DEBUG] app - val=%内科医院%,%市%,A01,A04,20
+[2016-09-29 17:26:18.142] [DEBUG] app - result=null, err=null
+[2016-09-29 17:26:37.607] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:26:37.607] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:26:37.622] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:26:37.622] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:26:37.622] [INFO] app - Entering cheese testing
+[2016-09-29 17:26:37.654] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:26:37.654] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:26:37.654] [INFO] app - app.port=3000
+[2016-09-29 17:26:39.300] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:26:39.532] [INFO] app - /app/search/mix request start
+[2016-09-29 17:26:39.563] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:26:39.563] [INFO] app - auth ok
+[2016-09-29 17:26:39.563] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:26:39.563] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3))
+[2016-09-29 17:26:39.563] [DEBUG] app - val=%内科医院%,%市%,A04,20
+[2016-09-29 17:26:39.579] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 17:55:01.915] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:55:01.915] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:55:01.915] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:55:01.915] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:55:01.915] [INFO] app - Entering cheese testing
+[2016-09-29 17:55:01.947] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:55:01.947] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:55:01.947] [INFO] app - app.port=3000
+[2016-09-29 17:55:04.391] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:55:04.631] [INFO] app - /app/search/mix request start
+[2016-09-29 17:55:04.646] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:55:04.678] [INFO] app - auth ok
+[2016-09-29 17:55:04.678] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:55:25.403] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:55:25.409] [INFO] app - /app/search/mix request start
+[2016-09-29 17:55:25.427] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:55:25.443] [INFO] app - auth ok
+[2016-09-29 17:55:25.443] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:56:10.561] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:56:10.561] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:56:10.577] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:56:10.577] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:56:10.577] [INFO] app - Entering cheese testing
+[2016-09-29 17:56:10.606] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:56:10.606] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:56:10.613] [INFO] app - app.port=3000
+[2016-09-29 17:56:19.063] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:56:19.316] [INFO] app - /app/search/mix request start
+[2016-09-29 17:56:19.332] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:56:19.365] [INFO] app - auth ok
+[2016-09-29 17:56:19.365] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:56:46.631] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:56:46.631] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:56:46.647] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:56:46.647] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:56:46.647] [INFO] app - Entering cheese testing
+[2016-09-29 17:56:46.663] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:56:46.663] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:56:46.678] [INFO] app - app.port=3000
+[2016-09-29 17:56:48.312] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:56:48.548] [INFO] app - /app/search/mix request start
+[2016-09-29 17:56:48.564] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:56:48.579] [INFO] app - auth ok
+[2016-09-29 17:56:48.579] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:56:48.579] [DEBUG] app - cond= name like $1 AND  address like $2
+[2016-09-29 17:56:48.579] [DEBUG] app - val=%内科医院%,%市%,20
+[2016-09-29 17:56:48.579] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 17:57:24.058] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:57:24.058] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:57:24.058] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:57:24.058] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:57:24.058] [INFO] app - Entering cheese testing
+[2016-09-29 17:57:24.092] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:57:24.092] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:57:24.098] [INFO] app - app.port=3000
+[2016-09-29 17:57:26.300] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:57:26.515] [INFO] app - /app/search/mix request start
+[2016-09-29 17:57:26.531] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:57:26.547] [INFO] app - auth ok
+[2016-09-29 17:57:26.547] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:58:15.548] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:58:15.548] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:58:15.548] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:58:15.548] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:58:15.548] [INFO] app - Entering cheese testing
+[2016-09-29 17:58:15.580] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:58:15.580] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:58:15.580] [INFO] app - app.port=3000
+[2016-09-29 17:58:17.380] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:58:17.595] [INFO] app - /app/search/mix request start
+[2016-09-29 17:58:17.626] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:58:17.626] [INFO] app - auth ok
+[2016-09-29 17:58:17.626] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:58:17.626] [DEBUG] app - A01,A04
+[2016-09-29 17:58:58.005] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:58:58.008] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:58:58.012] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:58:58.012] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:58:58.015] [INFO] app - Entering cheese testing
+[2016-09-29 17:58:58.033] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:58:58.033] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:58:58.033] [INFO] app - app.port=3000
+[2016-09-29 17:58:59.749] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:58:59.964] [INFO] app - /app/search/mix request start
+[2016-09-29 17:59:00.000] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:59:00.018] [INFO] app - auth ok
+[2016-09-29 17:59:00.018] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:59:00.018] [DEBUG] app - A01,A04
+[2016-09-29 17:59:34.849] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:59:34.849] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:59:34.849] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 17:59:34.849] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:59:34.865] [INFO] app - Entering cheese testing
+[2016-09-29 17:59:34.880] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 17:59:34.880] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 17:59:34.899] [INFO] app - app.port=3000
+[2016-09-29 17:59:37.982] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 17:59:38.211] [INFO] app - /app/search/mix request start
+[2016-09-29 17:59:38.218] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 17:59:38.233] [INFO] app - auth ok
+[2016-09-29 17:59:38.233] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 17:59:38.233] [DEBUG] app - A01,A04
+[2016-09-29 17:59:38.233] [DEBUG] app - 3
+[2016-09-29 17:59:38.233] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3))
+[2016-09-29 17:59:38.233] [DEBUG] app - val=%内科医院%,%市%,A01,A04,20
+[2016-09-29 17:59:38.249] [DEBUG] app - result=null, err=null
+[2016-09-29 18:00:35.307] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 18:00:35.310] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 18:00:35.314] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 18:00:35.314] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 18:00:35.317] [INFO] app - Entering cheese testing
+[2016-09-29 18:00:35.333] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 18:00:35.333] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 18:00:35.333] [INFO] app - app.port=3000
+[2016-09-29 18:00:36.765] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 18:00:36.980] [INFO] app - /app/search/mix request start
+[2016-09-29 18:00:37.015] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 18:00:37.035] [INFO] app - auth ok
+[2016-09-29 18:00:37.035] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 18:00:37.035] [DEBUG] app - A01,A04
+[2016-09-29 18:00:37.035] [DEBUG] app - 3,4
+[2016-09-29 18:00:37.035] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3,$4))
+[2016-09-29 18:00:37.035] [DEBUG] app - val=%内科医院%,%市%,A01,A04,20
+[2016-09-29 18:00:37.035] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 18:00:53.565] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 18:00:53.565] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 18:00:53.565] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 18:00:53.565] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 18:00:53.565] [INFO] app - Entering cheese testing
+[2016-09-29 18:00:53.603] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 18:00:53.604] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 18:00:53.609] [INFO] app - app.port=3000
+[2016-09-29 18:00:55.505] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 18:00:55.718] [INFO] app - /app/search/mix request start
+[2016-09-29 18:00:55.733] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 18:00:55.733] [INFO] app - auth ok
+[2016-09-29 18:00:55.749] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 18:00:55.749] [DEBUG] app - A05,A06
+[2016-09-29 18:00:55.749] [DEBUG] app - 3,4
+[2016-09-29 18:00:55.749] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3,$4))
+[2016-09-29 18:00:55.749] [DEBUG] app - val=%内科医院%,%市%,A05,A06,20
+[2016-09-29 18:00:55.749] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 18:01:07.934] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=5&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 18:01:07.944] [INFO] app - /app/search/mix request start
+[2016-09-29 18:01:07.944] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 18:01:07.944] [INFO] app - auth ok
+[2016-09-29 18:01:07.944] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 18:01:07.944] [DEBUG] app - A05,A06
+[2016-09-29 18:01:07.944] [DEBUG] app - 3,4
+[2016-09-29 18:01:07.944] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3,$4))
+[2016-09-29 18:01:07.944] [DEBUG] app - val=%内科医院%,%市%,A05,A06,5
+[2016-09-29 18:01:07.944] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 18:01:22.182] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 18:01:22.199] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 18:01:22.203] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 18:01:22.203] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 18:01:22.206] [INFO] app - Entering cheese testing
+[2016-09-29 18:01:22.218] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 18:01:22.218] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 18:01:22.234] [INFO] app - app.port=3000
+[2016-09-29 18:01:24.965] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=5&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 18:01:25.180] [INFO] app - /app/search/mix request start
+[2016-09-29 18:01:25.204] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 18:01:25.210] [INFO] app - auth ok
+[2016-09-29 18:01:25.211] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 18:01:25.211] [DEBUG] app - B05,B06
+[2016-09-29 18:01:25.211] [DEBUG] app - 3,4
+[2016-09-29 18:01:25.211] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3,$4))
+[2016-09-29 18:01:25.211] [DEBUG] app - val=%内科医院%,%市%,B05,B06,5
+[2016-09-29 18:01:25.216] [DEBUG] app - result=null, err=null
+[2016-09-29 18:02:38.934] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 18:02:38.934] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 18:02:38.934] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 18:02:38.934] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 18:02:38.934] [INFO] app - Entering cheese testing
+[2016-09-29 18:02:38.966] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 18:02:38.966] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 18:02:38.966] [INFO] app - app.port=3000
+[2016-09-29 18:02:40.681] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=5&hname=%E5%86%85%E7%A7%91%E5%8C%BB%E9%99%A2&address=%E5%B8%82 request start
+[2016-09-29 18:02:40.919] [INFO] app - /app/search/mix request start
+[2016-09-29 18:02:40.935] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 18:02:40.951] [INFO] app - auth ok
+[2016-09-29 18:02:40.951] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 18:02:40.951] [DEBUG] app - B05,B03
+[2016-09-29 18:02:40.951] [DEBUG] app - 3,4
+[2016-09-29 18:02:40.951] [DEBUG] app - cond= name like $1 AND  address like $2 AND  id in (select hospital_id from hospital_dept where dept_no in ($3,$4))
+[2016-09-29 18:02:40.951] [DEBUG] app - val=%内科医院%,%市%,B05,B03,5
+[2016-09-29 18:02:40.951] [DEBUG] app - result=null, err=null
+[2016-09-29 18:02:54.918] [INFO] app - /test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=5&address=%E5%B8%82 request start
+[2016-09-29 18:02:54.919] [INFO] app - /app/search/mix request start
+[2016-09-29 18:02:54.919] [DEBUG] app - accessInfoDao.checkPermission:[object Object]
+[2016-09-29 18:02:54.919] [INFO] app - auth ok
+[2016-09-29 18:02:54.919] [DEBUG] app - hospitalDao.getListByMix: address=市
+[2016-09-29 18:02:54.919] [DEBUG] app - B05,B03
+[2016-09-29 18:02:54.919] [DEBUG] app - 2,3
+[2016-09-29 18:02:54.919] [DEBUG] app - cond= address like $1 AND  id in (select hospital_id from hospital_dept where dept_no in ($2,$3))
+[2016-09-29 18:02:54.919] [DEBUG] app - val=%市%,B05,B03,5
+[2016-09-29 18:02:54.919] [DEBUG] app - result=[object Object],[object Object],[object Object],[object Object],[object Object], err=null
+[2016-09-29 20:54:14.347] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 20:54:14.351] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 20:54:14.355] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-29 20:54:14.355] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 20:54:14.359] [INFO] app - Entering cheese testing
+[2016-09-29 20:54:14.389] [INFO] app - ./pg/customerDao be loading
+[2016-09-29 20:54:14.389] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-29 20:54:14.397] [INFO] app - app.port=3000

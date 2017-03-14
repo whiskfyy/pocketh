@@ -1,0 +1,40 @@
+
+“ì‹æ–ì‘½–ÚF33.542956, 130.427247
+“ì‹æ’†”öF33.542425, 130.411448
+‚Ó‚¶ƒrƒ‹F33.584230, 130.404946
+addCustomer
+http://localhost:3000/test/addCustomer
+http://localhost/myapp/test/addCustomer
+
+confirmCustomer
+http://localhost:3000/test/confirmCustomer?k=a17f3451-3ec5-4214-9591-63f2c71ca300&p=password
+http://localhost/myapp/test/confirmCustomer?k=55ef9d32-4935-42ef-8a56-c3a26a79a22d&p=password
+
+
+search_near
+http://localhost:3000/test/search_near?k=383d745b-b65c-4930-83b6-c5b2138bf298&lat=38.272477&lng=140.852924&range=5&limit=20
+http://localhost/myapp/test/search_near?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&lat=38.272477&lng=140.852924&range=5&limit=20
+
+search_name
+http://localhost:3000/test/search_name?k=383d745b-b65c-4930-83b6-c5b2138bf298&hname=“à‰Èˆã‰@&limit=20
+http://localhost/myapp/test/search_name?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&hname=“à‰Èˆã‰@&limit=20
+
+search_address
+http://localhost:3000/test/search_address?k=383d745b-b65c-4930-83b6-c5b2138bf298&address=•Ÿ‰ªs&limit=20
+http://localhost/myapp/test/search_address?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&address=•Ÿ‰ªs&limit=20
+
+search mix
+http://localhost:3000/test/search_mix?k=383d745b-b65c-4930-83b6-c5b2138bf298&lat=38.272477&lng=140.852924&range=5&limit=20&hname=“à‰Èˆã‰@&address=s
+http://localhost:3000/test/search_mix?k=383d745b-b65c-4930-83b6-c5b2138bf298&lat=33.542956&lng=130.427247&range=5&limit=20&dept=“à‰È
+http://localhost:3000/test/search_mix?k=383d745b-b65c-4930-83b6-c5b2138bf298&lat=33.542425&lng=130.411448&range=5&limit=20&dept=“à‰È
+http://localhost:3000/test/search_mix?k=383d745b-b65c-4930-83b6-c5b2138bf298&lat=33.584230&lng=130.404946&range=5&limit=20&dept=“à‰È
+
+http://localhost:3000/test/search_mix?k=ec416607-3f8f-4b0f-a97a-4a4680d00df3&limit=20&hname=“à‰Èˆã‰@&address=s
+
+//locationXV@string->float
+db.hospital.find().forEach(function(x){ x.lat=parseFolat(x.lat);x.lng=parseFloat(x.lng); db.hospital.save(x); });
+
+//•a‰@ƒXƒPƒWƒ…[ƒ‹‰Šúİ’è
+db.hospital.find().forEach(function(x){ x.schedule={"interval":[{"dt":"0930", "limit":2},{"dt":"1000", "limit":2},{"dt":"1030", "limit":2},{"dt":"1100", "limit":2},{"dt":"1130", "limit":2},{"dt":"1200", "limit":2},{"dt":"1230", "limit":2},{"dt":"1400", "limit":2},{"dt":"1430", "limit":2},{"dt":"1500", "limit":2},{"dt":"1530", "limit":2},{"dt":"1600", "limit":2},{"dt":"1630", "limit":2},{"dt":"1700", "limit":2},{"dt":"1730", "limit":2},{"dt":"1800", "limit":2}], "week":[8,8,8,8,8,0,0]};x.canOrder=false; db.hospital.save(x); });
+
+

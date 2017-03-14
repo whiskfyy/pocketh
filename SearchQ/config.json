@@ -1,0 +1,30 @@
+{
+	"RES":{
+		"NORMAL": 			"0",
+		"AUTH_ERROR":		"1001",
+		"PARAM_ERROR": 		"1002",
+		"DB_ERROR": 		"4001",
+		"NO_DATA_ERROR":	"4010"
+	},
+	
+	"NO_AUTH":[
+	     "/test/"    
+		,"/app/user_register"
+		,"/app/auth"
+	],
+	
+	"AUTH": {
+		"user": "username",
+		"pass": "password"
+	},
+	
+	"ACTIVE_TIME_LIMIT": "7 days 00:00:00",
+	"ACTIVE_TIME_LIMIT_DAY": 7,
+	
+	"LAT_100": 860,
+	"LNG_100": 1150,
+	"DBTYPE": "mongo",
+	"MONGODB_URL":"mongodb://localhost:27017/hospital4",
+	"TEST_URL":"http://localhost:3000"
+		
+}

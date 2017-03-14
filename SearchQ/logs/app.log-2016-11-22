@@ -1,0 +1,27 @@
+[2016-11-22 16:19:08.177] [INFO] app - ./pg/customerDao be loading
+[2016-11-22 16:19:08.180] [INFO] app - ./pg/accessInfoDao be loading
+[2016-11-22 16:19:08.184] [INFO] app - ./pg/hospitalAction be loading
+[2016-11-22 16:19:08.184] [INFO] app - ./pg/accessInfoDao be loading
+[2016-11-22 16:19:08.187] [INFO] app - Entering cheese testing
+[2016-11-22 16:19:08.222] [INFO] app - ./pg/customerDao be loading
+[2016-11-22 16:19:08.222] [INFO] app - ./pg/accessInfoDao be loading
+[2016-11-22 16:19:08.227] [INFO] app - app.port=3000
+[2016-11-22 16:19:24.181] [INFO] app - /test/addCustomer request start
+[2016-11-22 16:19:45.690] [DEBUG] app - error:Error: connect ETIMEDOUT 133.130.90.39:3000
+[2016-11-22 16:31:10.932] [INFO] app - ./pg/customerDao be loading
+[2016-11-22 16:31:10.936] [INFO] app - ./pg/accessInfoDao be loading
+[2016-11-22 16:31:10.939] [INFO] app - ./pg/hospitalAction be loading
+[2016-11-22 16:31:10.939] [INFO] app - ./pg/accessInfoDao be loading
+[2016-11-22 16:31:10.943] [INFO] app - Entering cheese testing
+[2016-11-22 16:31:10.967] [INFO] app - ./pg/customerDao be loading
+[2016-11-22 16:31:10.967] [INFO] app - ./pg/accessInfoDao be loading
+[2016-11-22 16:31:10.973] [INFO] app - app.port=3000
+[2016-11-22 16:31:16.699] [INFO] app - /test/addCustomer request start
+[2016-11-22 16:31:17.047] [INFO] app - /favicon.ico request start
+[2016-11-22 16:31:33.422] [INFO] app - /test/addCustomer request start
+[2016-11-22 16:31:33.486] [INFO] app - /favicon.ico request start
+[2016-11-22 16:31:35.444] [INFO] app - /test/addCustomer request start
+[2016-11-22 16:32:15.596] [INFO] app - /test/addCustomer request start
+[2016-11-22 16:32:21.876] [INFO] app - /test/addCustomer request start
+[2016-11-22 16:32:36.121] [INFO] app - /test/addCustomer request start
+[2016-11-22 16:32:37.476] [INFO] app - /test/addCustomer request start

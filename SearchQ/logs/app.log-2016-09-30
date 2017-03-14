@@ -1,0 +1,101 @@
+[2016-09-30 21:14:27.280] [INFO] app - ./pg/customerDao be loading
+[2016-09-30 21:14:27.284] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:14:27.287] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-30 21:14:27.288] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:14:27.291] [INFO] app - Entering cheese testing
+[2016-09-30 21:14:27.313] [INFO] app - ./pg/customerDao be loading
+[2016-09-30 21:14:27.313] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:14:27.319] [INFO] app - app.port=3000
+[2016-09-30 21:14:54.211] [INFO] app - /test/addCustomer request start
+[2016-09-30 21:23:56.876] [INFO] app - ./pg/customerDao be loading
+[2016-09-30 21:23:56.879] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:23:56.882] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-30 21:23:56.883] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:23:56.886] [INFO] app - Entering cheese testing
+[2016-09-30 21:23:56.907] [INFO] app - ./pg/customerDao be loading
+[2016-09-30 21:23:56.908] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:23:56.914] [INFO] app - app.port=3000
+[2016-09-30 21:24:02.224] [INFO] app - /test/addCustomer request start
+[2016-09-30 21:24:03.425] [DEBUG] app - error:Error: connect ECONNREFUSED 127.0.0.1:13000
+[2016-09-30 21:24:50.573] [INFO] app - ./pg/customerDao be loading
+[2016-09-30 21:24:50.577] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:24:50.580] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-30 21:24:50.580] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:24:50.584] [INFO] app - Entering cheese testing
+[2016-09-30 21:24:50.608] [INFO] app - ./pg/customerDao be loading
+[2016-09-30 21:24:50.608] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:24:50.616] [INFO] app - app.port=3000
+[2016-09-30 21:24:53.931] [INFO] app - /test/addCustomer request start
+[2016-09-30 21:24:55.116] [DEBUG] app - error:Error: connect ECONNREFUSED 127.0.0.1:13000
+[2016-09-30 21:25:22.148] [INFO] app - ./pg/customerDao be loading
+[2016-09-30 21:25:22.151] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:25:22.154] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-30 21:25:22.154] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:25:22.157] [INFO] app - Entering cheese testing
+[2016-09-30 21:25:22.179] [INFO] app - ./pg/customerDao be loading
+[2016-09-30 21:25:22.179] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:25:22.186] [INFO] app - app.port=3000
+[2016-09-30 21:25:24.250] [INFO] app - /test/addCustomer request start
+[2016-09-30 21:25:24.479] [INFO] app - /app/user_register/register request start
+[2016-09-30 21:25:24.579] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-30 21:28:39.397] [INFO] app - ./pg/customerDao be loading
+[2016-09-30 21:28:39.401] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:28:39.404] [INFO] app - ./pg/hospitalAction be loading
+[2016-09-30 21:28:39.405] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:28:39.408] [INFO] app - Entering cheese testing
+[2016-09-30 21:28:39.429] [INFO] app - ./pg/customerDao be loading
+[2016-09-30 21:28:39.430] [INFO] app - ./pg/accessInfoDao be loading
+[2016-09-30 21:28:39.436] [INFO] app - app.port=3000
+[2016-09-30 21:28:43.449] [INFO] app - /test/addCustomer request start
+[2016-09-30 21:28:43.676] [INFO] app - /app/user_register/register request start
+[2016-09-30 21:28:43.718] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-30 21:28:43.718] [ERROR] app - customerDao.insertOne db connect error. { error: �ǩ`���٩`��"orderQ"�ϴ��ڤ��ޤ���
+    at Connection.parseE (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:554:11)
+    at Connection.parseMessage (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:381:17)
+    at Socket.<anonymous> (C:\Users\han\Dropbox\working\病院予約プロジェクト\SearchQ\node_modules\pg\lib\connection.js:117:22)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:172:18)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+    at TCP.onread (net.js:542:20)
+  name: 'error',
+  length: 109,
+  severity: 'FATAL',
+  code: '3D000',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'src\\backend\\utils\\init\\postinit.c',
+  line: '717',
+  routine: 'InitPostgres' }
+[2016-09-30 21:28:43.737] [DEBUG] app - result=null, err=4001
+[2016-09-30 21:28:43.940] [INFO] app - /favicon.ico request start
+[2016-09-30 21:31:17.794] [INFO] app - /test/addCustomer request start
+[2016-09-30 21:31:17.803] [INFO] app - /app/user_register/register request start
+[2016-09-30 21:31:17.843] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-30 21:31:17.866] [DEBUG] app - result=a6dc290f-8248-48b3-947d-c655d6c841b1, err=null
+[2016-09-30 21:31:17.890] [INFO] app - /favicon.ico request start
+[2016-09-30 21:31:19.100] [INFO] app - /test/addCustomer request start
+[2016-09-30 21:31:19.104] [INFO] app - /app/user_register/register request start
+[2016-09-30 21:31:19.105] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-30 21:31:19.106] [DEBUG] app - result=673ab55e-4782-4b9a-8205-8f2d9a0ef227, err=null
+[2016-09-30 21:31:19.665] [INFO] app - /test/addCustomer request start
+[2016-09-30 21:31:19.670] [INFO] app - /app/user_register/register request start
+[2016-09-30 21:31:19.671] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-30 21:31:19.673] [DEBUG] app - result=a50e6f6b-eb9b-4cf3-95c8-d713910346fe, err=null
+[2016-09-30 21:31:20.135] [INFO] app - /test/addCustomer request start
+[2016-09-30 21:31:20.139] [INFO] app - /app/user_register/register request start
+[2016-09-30 21:31:20.140] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-30 21:31:20.141] [DEBUG] app - result=1a1e5232-9b9a-4810-9aed-e0c6152f7c07, err=null
+[2016-09-30 21:31:20.588] [INFO] app - /test/addCustomer request start
+[2016-09-30 21:31:20.600] [INFO] app - /app/user_register/register request start
+[2016-09-30 21:31:20.601] [DEBUG] app - customerDao.insertOne:[object Object]
+[2016-09-30 21:31:20.602] [DEBUG] app - result=9c8baaaa-51e6-4a49-9ead-72a8c384077e, err=null
